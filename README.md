@@ -17,6 +17,8 @@ Current countries and zones with IoT cyber security regulations:
 - Singapore
 - United Kingdom
 
+If you want to reference this work, please refer to this GitHub page directly to limit forks and consolidate efforts.
+
 # Table of IoT Cyber Security Regulations
 
 | Country / Zone                                               | Australia                                                                                                                                                | Brazil                                                                                                                                                                           | Canada                                                                                                                               | China                                                                                                                                                                         | European Union                                                                                                                                              | European Union                                                                                                                                              | Finland                                                            | India                                     | Japan                                                                                                                                          | United State of America                                                                                                      | United Kingdom                                                      |
