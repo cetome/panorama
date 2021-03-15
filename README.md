@@ -1,9 +1,6 @@
 # Panorama of IoT Cyber Security Regulations across the World (March 2021)
-The following table presents the list of regulations across the world.
+This panorama presents the list of regulations across the world.
 Most information was collected through public means.
-The table presents results using indicators:
-- **✅ Yes**, **🆗 Partially**, **❌ No** and **🛑 N/A** (Not Applicable) when the information is available.
-- **❔ TBC** (To Be Confirmed) when no information is available due to an on-going development.
 
 Current countries and zones with IoT cyber security regulations:
 - 🇦🇺 Australia
@@ -21,7 +18,14 @@ Current countries and zones with IoT cyber security regulations:
 If you want to reference this work, please refer to this GitHub page directly or to [cetome.com/panorama](https://cetome.com/panorama) (redirection to this page).
 This is to limit forks and consolidate efforts.
 
-# Table of IoT Cyber Security Regulations
+# Map of IoT Cyber Security Regulations
+![map](map.png)
+
+# Summary table
+The table presents results using indicators:
+- **✅ Yes**, **🆗 Partially**, **❌ No** and **🛑 N/A** (Not Applicable) when the information is available.
+- **❔ TBC** (To Be Confirmed) when no information is available due to an on-going development.
+
 
 | Country / Zone                                                   | 🇦🇺 Australia                                                                         | 🇧🇷 Brazil                                                                                        | 🇨🇦 Canada                                                                  | 🇨🇳 China                                                                                                      | 🇪🇺 European Union                                                                     | 🇪🇺 European Union                                                                      | 🇫🇮 Finland                                             | 🇮🇳 India                                   | 🇯🇵 Japan                                                                       | 🇸🇬 Singapore                                                                         | 🇬🇧 United Kingdom                                                    |  🇺🇸 United States of America                                            |  🇺🇸 United States of America - California                                                       |  🇺🇸 United States of America - Oregon                                        |
 | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------| ------------------------------------------------------ | ----------------------------------------- | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------- | ----------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
@@ -42,5 +46,3 @@ This is to limit forks and consolidate efforts.
 | **Can ETSI EN 303 645 be used to comply with the regulation?**   | ✅ Yes                                                                               | ✅ Yes                                                                                          | ✅ Yes                                                                    | ✅ Yes                                                                                                       | ✅ Yes                                                                                | ✅ Yes                                                                               | ✅ Yes                                                 | ✅ Yes                                   | ✅ Yes                                                                         | ✅ Yes                                                                              | ✅ Yes                                                               |  🆗 Partially                                                         | ✅ Yes                                                                                          | ✅ Yes                                                                   |
 | **Are other standards or guidance referenced? (cf. regulation)** | ❌ No                                                                                | ✅ Yes                                                                                          | ✅ Yes                                                                    | ✅ Yes                                                                                                       | ❌ No                                                                                 | ❌ No                                                                                | ✅ Yes                                                 | ❔ TBC                                   | ✅ Yes                                                                          | ✅ Yes                                                                              | ❌ No                                                                | ✅ Yes                                                               | ❌ No                                                                                           | ❌ No                                                                    |
 
-# Map of IoT Cyber Security Regulations
-![map](map.png)
