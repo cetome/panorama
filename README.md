@@ -6,16 +6,16 @@ Most information was collected through public means.
 - When the information is not applicable, the term **Not Applicable (N/A)** is used.
 
 Current countries and zones with IoT cyber security regulations:
-- Australia
-- Brazil
-- Canada
-- China
-- European Union
-- Finland
-- Japan
-- United States of America
-- Singapore
-- United Kingdom
+- 🇦🇺 Australia
+- 🇧🇷 Brazil 
+- 🇨🇦 Canada
+- 🇨🇳 China
+- 🇪🇺 European Union
+- 🇫🇮 Finland
+- 🇯🇵 Japan
+- 🇺🇲 United States of America
+- 🇸🇬 Singapore
+- 🇬🇧 United Kingdom
 
 If you want to reference this work, please refer to this GitHub page directly or to [cetome.com/panorama](https://cetome.com/panorama) (redirection to this page).
 This is to limit forks and consolidate efforts.
