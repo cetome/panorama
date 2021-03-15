@@ -1,9 +1,9 @@
 # Panorama of IoT Cyber Security Regulations across the World (March 2021)
 The following table presents the list of regulations across the world.
 Most information was collected through public means.
-
-- When there is no information, due to an on-going development, the term **To Be Confirmed (TBC)** is used.
-- When the information is not applicable, the term **Not Applicable (N/A)** is used.
+The table presents results using indicators:
+- **✅ Yes**, **🆗 Partially**, **❌ No** and **🛑 N/A** (Not Applicable) when the information is available.
+- **❔ TBC** (To Be Confirmed) when no information is available due to an on-going development.
 
 Current countries and zones with IoT cyber security regulations:
 - 🇦🇺 Australia
