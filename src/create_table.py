@@ -85,7 +85,8 @@ def create_HTML_table(panorama):
     panorama.index = '''<img src="''' + df["country-flag"] + '''" height="16"> ''' + df["id"]
 
     # Replace URLs for readability (where URL starts with http)
-    #panorama["URL"][panorama.URL.str.contains("http")] = '<a href="' + panorama["URL"] + '>Source</a>'
+    panorama["URL"][panorama.URL.str.contains("http")] = '<a href="' + panorama["URL"] + '">Source</a>'
+
 
     # And write the transposed panorama to file
     with open("table.html", "w", encoding="utf-8") as fw:
@@ -100,7 +101,7 @@ if __name__ == "__main__":
     panorama = create_panorama(df)
 
     try:
-        create_markdown_table(panorama)
+        create_markdown_table(panorama.copy(deep=True))
 
     except:
         print("Error: cannot create Markdown table.")
@@ -110,7 +111,7 @@ if __name__ == "__main__":
 
 
     try:
-        create_HTML_table(panorama)
+        create_HTML_table(panorama.copy(deep=True))
 
     except:
         print("Error: cannot create HTML table.")
