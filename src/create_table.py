@@ -2,6 +2,7 @@ import os
 import glob
 import yaml
 import pandas as pd
+import tabulate # requierd to use to_markdown()
 
 # Read all YAML files in the **CURRENT** directory
 def read_yaml():
@@ -76,10 +77,13 @@ def create_markdown_table(df):
 if __name__ == "__main__":
 
     df = read_yaml()
+
     try:
         create_markdown_table(df)
+
     except:
         print("Error: cannot create Markdown table.")
+        exit()
 
     print("Successfully created Markdown table in: " + os.path.join(os.getcwd(), "table.md"))
 
