@@ -24,8 +24,8 @@ def read_yaml():
 
 # Create the panorama for Markdown export
 # The panorama DataFrame will be transposed before writing to Markdown
-def create_markdown_table(df):
-
+def create_panorama(df):
+    
     # Subset of useful information
     panorama = df.filter(["regulation",
                           "shortname",
@@ -62,6 +62,10 @@ def create_markdown_table(df):
                         "Can ETSI EN 303 645 be used to comply with the regulation?",
                         "Are other standards or guidance referenced? (cf. regulation)"]
 
+    return panorama
+
+# Adapt header and URLs to Markdown
+def create_markdown_table(panorama):
     # Header will be country code + id (country name)
     panorama.index = df["country-code"] + " " + df["id"]
 
@@ -74,12 +78,29 @@ def create_markdown_table(df):
     
     return 1
 
+
+# Adapt header and URLs to HTML
+def create_HTML_table(panorama):
+    # Header will be country flag (image) + id (country name)
+    panorama.index = '''<img src="''' + df["country-flag"] + '''" height="16"> ''' + df["id"]
+
+    # Replace URLs for readability (where URL starts with http)
+    #panorama["URL"][panorama.URL.str.contains("http")] = '<a href="' + panorama["URL"] + '>Source</a>'
+
+    # And write the transposed panorama to file
+    with open("table.html", "w", encoding="utf-8") as fw:
+        fw.write(panorama.transpose().to_html().replace("&lt;", "<").replace("&gt;", ">")) # remove the URL encoding for images
+    
+    return 2
+
+
 if __name__ == "__main__":
 
     df = read_yaml()
+    panorama = create_panorama(df)
 
     try:
-        create_markdown_table(df)
+        create_markdown_table(panorama)
 
     except:
         print("Error: cannot create Markdown table.")
@@ -88,3 +109,11 @@ if __name__ == "__main__":
     print("Successfully created Markdown table in: " + os.path.join(os.getcwd(), "table.md"))
 
 
+    try:
+        create_HTML_table(panorama)
+
+    except:
+        print("Error: cannot create HTML table.")
+        exit()
+    
+    print("Successfully created HTML table in: " + os.path.join(os.getcwd(), "table.html"))
