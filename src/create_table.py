@@ -21,11 +21,7 @@ def read_yaml():
         print("Directory countries not found or without any YAML file in it")
         exit()
 
-
-# Create the panorama for Markdown export
-# The panorama DataFrame will be transposed before writing to Markdown
-def create_panorama(df):
-    
+def create_panorama_default(df):
     # Subset of useful information
     panorama = df.filter(["regulation",
                           "shortname",
@@ -64,6 +60,30 @@ def create_panorama(df):
 
     return panorama
 
+
+# Create the panorama for Markdown export
+# The panorama DataFrame will be transposed before writing to Markdown
+# This requires a settings.yaml file in the current directory
+# If settings doesn't exist, it will use the default values
+def create_panorama(df):
+    setting_file = os.path.join(os.path.dirname(__file__), "settings.yaml")
+
+    try:
+        with open(setting_file, "r", encoding="utf-8") as f:
+            s = yaml.safe_load(f)
+            settings = pd.DataFrame(pd.json_normalize(s))
+
+    except:
+        print("Error: File " + os.path.join(os.getcwd(), "settings.yaml") + " does not exist. Using default parameters")
+        return create_panorama_default(df)
+
+    # Set table parameters and labels
+    panorama = df.filter(settings.keys(), axis=1)
+    panorama.columns = settings.values[0]
+
+    return panorama
+
+
 # Adapt header and URLs to Markdown
 def create_markdown_table(panorama):
     # Header will be country code + id (country name)
@@ -99,7 +119,8 @@ if __name__ == "__main__":
 
     df = read_yaml()
     panorama = create_panorama(df)
-
+    print(panorama.transpose().to_markdown())
+    exit()
     try:
         create_markdown_table(panorama.copy(deep=True))
 
