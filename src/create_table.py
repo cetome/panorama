@@ -69,7 +69,7 @@ def create_panorama_default(df):
 # This requires a settings.yaml file in the current directory
 # If settings doesn't exist, it will use the default values
 def create_panorama(df):
-    setting_file = os.path.join(os.path.dirname(__file__), "settings.yaml")
+    setting_file = os.path.join(os.path.dirname(__file__), "settings/settings.yaml")
 
     try:
         with open(setting_file, "r", encoding="utf-8") as f:
@@ -77,7 +77,7 @@ def create_panorama(df):
             settings = pd.DataFrame(pd.json_normalize(s))
 
     except:
-        print("Error: File " + os.path.join(os.getcwd(), "settings.yaml") + " does not exist. Using default parameters")
+        print("Error: File " + os.path.join(os.getcwd(), "settings/settings.yaml") + " does not exist. Using default parameters")
         return create_panorama_default(df)
 
     # Set table parameters and labels
@@ -111,9 +111,21 @@ def create_HTML_table(panorama):
     panorama["URL"][panorama.URL.str.contains("http")] = '<a href="' + panorama["URL"] + '">Source</a>'
 
 
+    html_prefix = """<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <title>Panorama of IoT Cyber Security Regulations</title>
+        <link rel="stylesheet" href="settings/styles.css" />
+    </head>
+<body>"""
+
+
     # And write the transposed panorama to file
     with open("table.html", "w", encoding="utf-8") as fw:
-        fw.write(panorama.transpose().to_html().replace("&lt;", "<").replace("&gt;", ">")) # remove the URL encoding for images
+        fw.write(html_prefix)
+        fw.write(panorama.transpose().to_html(justify="unset").replace("&lt;", "<").replace("&gt;", ">")) # remove the URL encoding for images
+        fw.write("</body></html>")
     
     return 2
 

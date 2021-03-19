@@ -1,0 +1,32 @@
+####################################
+#             Settings             #
+####################################
+# created-by: Cetome
+# date: 19/03/2021
+
+# The parameters select a subset of information to display
+# The values set the labels of the output table
+
+###################################
+#  Description of the parameters  #
+###################################
+regulation: "Regulation"
+shortname: "Shortname"
+author: "Author"
+URL: "URL"
+date-of-issue: "Date of issue"
+
+##################################
+#            Analysis            #
+##################################
+is-inforce: "Is the regulation in force?"
+scope: "Scope"
+target: "Target Actors"
+application: "Mandatory or Voluntary?"
+certification: "Is there a label or a certification?"
+baseline: "Does the regulation mandate baseline security requirements?"
+additional-requirements: "Are there additional requirements to the baseline security?"
+assurance-levels: "Does the regulation contains assurance levels?"
+is-ETSI-required: "Is compliance with ETSI EN 303 645 a requirement?"
+can-ETSI-comply: "Can ETSI EN 303 645 be used to comply with the regulation?"
+is-other-reference: "Are other standards or guidance referenced? (cf. regulation)"
