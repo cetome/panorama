@@ -18,7 +18,7 @@ Current countries and zones with IoT cyber security regulations:
 If you want to reference this work, please refer to this GitHub page directly or to [cetome.com/panorama](https://cetome.com/panorama) (redirection to this page).
 This is to limit forks and consolidate efforts.
 
-*Note: you can now generate your own panorama with a subset of information. The regulations are available in YAML files stored in "country/". The generation script and its settings are available in "src/". This will generate files your working directory.*
+*Note: you can now generate your own panorama with a subset of information. The regulations are available in YAML files stored in "country/". The generation script and its settings are available in "src/". This will generate files in your working directory. This requires the following dependencies: Python 3, PyYAML, pandas, tabulate.*
 
 # Map of IoT Cyber Security Regulations
 ![map](map.png)
