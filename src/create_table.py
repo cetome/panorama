@@ -21,6 +21,9 @@ def read_yaml():
         print("Directory countries not found or without any YAML file in it")
         exit()
 
+
+# Create the panorama for Markdown export with default values
+# The panorama DataFrame will be transposed before writing to Markdown
 def create_panorama_default(df):
     # Subset of useful information
     panorama = df.filter(["regulation",
@@ -119,8 +122,7 @@ if __name__ == "__main__":
 
     df = read_yaml()
     panorama = create_panorama(df)
-    print(panorama.transpose().to_markdown())
-    exit()
+
     try:
         create_markdown_table(panorama.copy(deep=True))
 
