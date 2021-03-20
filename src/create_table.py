@@ -96,7 +96,7 @@ def create_markdown_table(panorama):
     panorama["URL"][panorama.URL.str.contains("http")] = "[Source](" + panorama["URL"] + ")"
 
     # And write the transposed panorama to file
-    with open("table.md", "w", encoding="utf-8") as fw:
+    with open(os.path.join(os.path.dirname(__file__), "../table.md"), "w", encoding="utf-8") as fw:
         fw.write(panorama.transpose().to_markdown())
     
     return 1
@@ -116,13 +116,13 @@ def create_HTML_table(panorama):
     <head>
         <meta charset="UTF-8" />
         <title>Panorama of IoT Cyber Security Regulations</title>
-        <link rel="stylesheet" href="settings/styles.css" />
+        <link rel="stylesheet" href="src/settings/styles.css" />
     </head>
 <body>"""
 
 
     # And write the transposed panorama to file
-    with open("table.html", "w", encoding="utf-8") as fw:
+    with open(os.path.join(os.path.dirname(__file__), "../table.html"), "w", encoding="utf-8") as fw:
         fw.write(html_prefix)
         fw.write(panorama.transpose().to_html(justify="unset").replace("&lt;", "<").replace("&gt;", ">")) # remove the URL encoding for images
         fw.write("</body></html>")
