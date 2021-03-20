@@ -190,6 +190,7 @@ thead th{
   position: sticky;
   top: 0;
   background-color: inherit;
+  min-width: 15rem;
 }
 
 details summary {
