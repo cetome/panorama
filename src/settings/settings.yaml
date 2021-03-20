@@ -10,7 +10,7 @@
 ###################################
 #  Description of the parameters  #
 ###################################
-regulation: "Regulation"
+regulation: "Name of the regulation"
 shortname: "Shortname"
 author: "Author"
 URL: "URL"
