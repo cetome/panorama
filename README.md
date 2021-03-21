@@ -49,4 +49,4 @@ The table presents results using indicators:
 
 [Download a picture of the summary table](table.png)
 
-[Access the HTML version of the summary table](table.html)
+[Access the HTML version of the summary table](https://cetome.com/panorama)
