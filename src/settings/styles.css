@@ -1,127 +1,102 @@
-# Adapted from https://github.com/sindresorhus/github-markdown-css
-
+/* Adapted from https://github.com/sindresorhus/github-markdown-css */
 .octicon {
   display: inline-block;
-  fill: currentColor;
-  vertical-align: text-bottom;
+  vertical-align: center;
 }
 
-body {
-  -ms-text-size-adjust: 100%;
-  -webkit-text-size-adjust: 100%;
-  line-height: 1.5;
-  color: #24292e;
-  font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
-  font-size: 16px;
+.tabwrapper{
+  overflow: auto;
+  position: relative;
+  resize: both;
+  height: auto;
+  width: auto;
+  max-height: 100vh;
+  max-width: 96vw;
+  margin-bottom: 2rem;
+}
+
+ table {
   line-height: 1.5;
   word-wrap: break-word;
+  border-collapse: separate;
+  border-spacing: 0;
+  font-size: 0.95rem;
 }
 
-a {
+ table img{
+  max-height: 0.9rem;
+}
+
+ table a {
   background-color: initial;
 }
 
-a:active,
-a:hover {
+ table a:active,
+ table a:hover {
   outline-width: 0;
 }
 
-img {
-  border-style: none;
-}
-
-* {
-  box-sizing: border-box;
-}
-
-a {
+ table a {
   color: #0366d6;
   text-decoration: none;
 }
 
-a:hover {
+ table a:hover {
   text-decoration: underline;
 }
 
-table {
-  border-spacing: 0;
-  position: relative;
-}
-
-td,
-th {
+ td,
+ th {
   padding: 0;
 }
 
-th{
+ th{
   position: sticky;
   left: 0;
   background-color: inherit;
 }
 
-thead th{
+ thead th {
   position: sticky;
   top: 0;
   background-color: inherit;
-  min-width: 15rem;
+  min-width: 10rem;
 }
 
-:checked+.radio-label {
-  position: relative;
-  z-index: 1;
-  border-color: #0366d6;
+ th:first-child{
+  min-width: 8rem;
 }
 
-body:after,
-body:before {
-  display: table;
-  content: "";
-}
-
-body:after {
-  clear: both;
-}
-
-body>:first-child {
-  margin-top: 0!important;
-}
-
-body>:last-child {
-  margin-bottom: 0!important;
-}
-
-table {
-  margin-top: 0;
-  margin-bottom: 16px;
-}
-
-table {
-  width: 100%;
-  overflow: auto;
-}
-
-table td,
-table th {
-  padding: 6px 13px;
+ table td,
+ table th {
+  padding: 0.5rem;
   border: 1px solid #dfe2e5;
 }
 
-table tr {
+ table tr {
   background-color: #fff;
   border-top: 1px solid #c6cbd1;
 }
 
-table tr:nth-child(2n) {
+ table tr:nth-child(2n) {
   background-color: #f6f8fa;
 }
 
-img {
-  max-width: 100%;
-  box-sizing: initial;
-  background-color: #fff;
+
+ table tr:nth-child(2n) {
+  background-color: #f6f8fa;
 }
 
-.full-commit .btn-outline:not(:disabled):hover {
-  color: #005cc5;
-  border-color: #005cc5;
+@media screen and (min-width: 1080px){  
+     thead th{
+      min-width: 15rem;
+    }
+
+     th:first-child {
+      min-width: 15rem;
+    }
+
+     table img{
+      max-height: 1.2rem;
+    }
 }
