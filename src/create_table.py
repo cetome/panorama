@@ -118,14 +118,19 @@ def create_HTML_table(panorama):
         <title>Panorama of IoT Cyber Security Regulations</title>
         <link rel="stylesheet" href="src/settings/styles.css" />
     </head>
-<body>"""
+
+    <body>
+    
+    """
 
 
     # And write the transposed panorama to file
     with open(os.path.join(os.path.dirname(__file__), "../table.html"), "w", encoding="utf-8") as fw:
         fw.write(html_prefix)
         fw.write(panorama.transpose().to_html(justify="unset").replace("&lt;", "<").replace("&gt;", ">")) # remove the URL encoding for images
-        fw.write("</body></html>")
+        fw.write("""
+    </body>
+</html>""")
     
     return 2
 
