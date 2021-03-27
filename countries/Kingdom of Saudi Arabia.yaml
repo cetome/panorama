@@ -1,0 +1,75 @@
+####################################
+#             Metadata             #
+####################################
+created-by: Cetome
+date: 18/03/2021
+
+#################################
+#           Geography           #
+#################################
+id: Kingdom of Saudi Arabia
+country-code: 🇸🇦
+country-flag: https://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg
+
+###################################
+#  Information on the regulation  #
+###################################
+regulation: Internet of Things Regulatory Framework
+shortname: IoT Regulatory Framework
+author: Communication and Information Technology Commission
+URL: https://www.citc.gov.sa/en/RulesandSystems/RegulatoryDocuments/Documents/IoT_REGULATORY_FRAMEWORK.pdf
+date-of-issue: September 2019
+
+##################################
+#            Analysis            #
+##################################
+# Please use the following markers where relevant:
+# ✅ Yes
+# ❌ No
+# 🆗 Partially
+# ❔ TBC when the information remains "To Be Confirmed"
+# 🛑 N/A when "Not Applicable"
+
+# Is the regulation in force?
+is-inforce: ✅ Yes
+
+# Scope:
+# Choices: All IoT systems, Consumer IoT, Industrial IoT, All IoT devices and systems, etc.
+# The scope is usually described in regulation!
+scope: All IoT systems
+
+# Target Actors: IoT manufacturers, IoT suppliers, IoT users, etc.
+# The target actors are usually described in the regulation
+target: IoT manufacturers, IoT service providers
+
+# Application
+# Choices: Mandatory or Voluntary?
+# Most regulations specify whether they are mandatory or voluntary.
+application: Mandatory
+
+# Is there a label or a certification?
+# Choices: ❌ No, ✅ Label, ✅ Certification, etc.
+# DO NOT ANSWER "✅ Yes".
+# It is possible to give more details.
+certification: ❌ No
+
+# Does the regulation mandate baseline security requirements?
+# The regulation calls these requirements "baseline", "minimum requirements", or can explicit them directly
+baseline: ✅ Yes
+
+# Are there additional requirements to the baseline security?
+# These requirements can be technical or non-technical. For example: reference to additional sectorial requirements.
+additional-requirements: ❌ No
+
+# Does the regulation contains assurance levels?
+# The regulation should described this element. The term "assessment criteria" can be used.
+assurance-levels: ❌ No
+
+# Is compliance with ETSI EN 303 645 a requirement?
+is-ETSI-required: ❌ No
+
+# Can ETSI EN 303 645 be used to comply with the regulation?
+can-ETSI-comply: ✅ Yes
+
+# Are other standards or guidance referenced? (cf. regulation)
+is-other-reference: ❌ No
