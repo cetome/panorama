@@ -1,4 +1,4 @@
-# Panorama of IoT Cyber Security Regulations across the World (March 2021)
+# Panorama of IoT Cyber Security Regulations across the World
 This panorama presents the list of regulations across the world.
 Most information was collected through public means.
 
