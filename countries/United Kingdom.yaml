@@ -51,7 +51,7 @@ application: Mandatory
 # Choices: ❌ No, ✅ Label, ✅ Certification, etc.
 # DO NOT ANSWER "✅ Yes".
 # It is possible to give more details.
-certification: ✅ Label
+certification: ❌ No (mandated product assurance remains possible in the future)
 
 # Does the regulation mandate baseline security requirements?
 # The regulation calls these requirements "baseline", "minimum requirements", or can explicit them directly
@@ -66,7 +66,7 @@ additional-requirements: ✅ Yes
 assurance-levels: ❌ No
 
 # Is compliance with ETSI EN 303 645 a requirement?
-is-ETSI-required: ❔ TBC (very likely to be ✅ Yes)
+is-ETSI-required: ✅ Yes (subset)
 
 # Can ETSI EN 303 645 be used to comply with the regulation?
 can-ETSI-comply: ✅ Yes
