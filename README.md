@@ -9,7 +9,7 @@ Current countries and zones with IoT cyber security regulations:
 - 🇨🇳 China
 - 🇪🇺 European Union
 - 🇫🇮 Finland
-- 🇮🇳 India *Consultation announced. More information needed.*
+- 🇮🇳 India
 - 🇯🇵 Japan
 - 🇸🇦 Kingdom of Saudi Arabia
 - 🇸🇬 Singapore
