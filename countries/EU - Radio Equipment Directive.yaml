@@ -2,7 +2,7 @@
 #             Metadata             #
 ####################################
 created-by: Cetome
-date: 18/03/2021
+date: 21/08/2021
 
 #################################
 #           Geography           #
@@ -17,8 +17,8 @@ country-flag: https://upload.wikimedia.org/wikipedia/commons/b/b7/Flag_of_Europe
 regulation: Articles 3(3)(e) and (f) of the Radio Equipment Directive 2014/53/EU
 shortname: RED
 author: European Commission
-URL: https://circabc.europa.eu/ui/group/43315f45-aaa7-44dc-9405-a86f639003fe/library/60d59d6f-52ed-45db-979a-f406904fe999/details
-date-of-issue: On-going work for cybersecurity
+URL: https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/2018-Internet-connected-radio-equipment-and-wearable-radio-equipment_en
+date-of-issue: Q4 2021
 
 ##################################
 #            Analysis            #
@@ -36,7 +36,7 @@ is-inforce: ❌ No
 # Scope:
 # Choices: All IoT systems, Consumer IoT, Industrial IoT, All IoT devices and systems, etc.
 # The scope is usually described in regulation!
-scope: Internet-connected devices
+scope: Internet-connected radio equipment
 
 # Target Actors: IoT manufacturers, IoT suppliers, IoT users, etc.
 # The target actors are usually described in the regulation

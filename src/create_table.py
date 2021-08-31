@@ -2,7 +2,7 @@ import os
 import glob
 import yaml
 import pandas as pd
-import tabulate # requierd to use to_markdown()
+import tabulate # required to use to_markdown()
 
 # Read all YAML files in the **CURRENT** directory
 def read_yaml():
