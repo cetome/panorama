@@ -17,8 +17,8 @@ country-flag: https://upload.wikimedia.org/wikipedia/commons/b/b7/Flag_of_Europe
 regulation: Articles 3(3)(e) and (f) of the Radio Equipment Directive 2014/53/EU
 shortname: RED
 author: European Commission
-URL: https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/2018-Internet-connected-radio-equipment-and-wearable-radio-equipment_en
-date-of-issue: Q4 2021
+URL: https://ec.europa.eu/growth/system/files/2021-10/C_2021_7672_F1_COMMISSION_DELEGATED_REGULATION_EN_V10_P1_1428769.PDF
+date-of-issue: 29 October 2021
 
 ##################################
 #            Analysis            #
@@ -31,7 +31,7 @@ date-of-issue: Q4 2021
 # 🛑 N/A when "Not Applicable"
 
 # Is the regulation in force?
-is-inforce: ❌ No
+is-inforce: ✅ Yes
 
 # Scope:
 # Choices: All IoT systems, Consumer IoT, Industrial IoT, All IoT devices and systems, etc.
