@@ -3,6 +3,7 @@
 ####################################
 created-by: Cetome
 date: 18/03/2021
+last-updated: 26/11/2021
 
 #################################
 #           Geography           #
@@ -14,11 +15,11 @@ country-flag: https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_
 ###################################
 #  Information on the regulation  #
 ###################################
-regulation: Proposals for regulating consumer smart product cyber security
-shortname: Secure by Design
+regulation: The Product Security and Telecommunications Infrastructure Bill
+shortname: PSTI (Secure by Design)
 author: Department for Digital, Media, Culture and Science
-URL: https://www.gov.uk/government/collections/secure-by-design
-date-of-issue: On-going work
+URL: https://www.gov.uk/government/collections/the-product-security-and-telecommunications-infrastructure-psti-bill-factsheets
+date-of-issue: 24/11/2021
 
 ##################################
 #            Analysis            #
@@ -31,7 +32,7 @@ date-of-issue: On-going work
 # 🛑 N/A when "Not Applicable"
 
 # Is the regulation in force?
-is-inforce: ❌ No
+is-inforce: ✅ Yes
 
 # Scope:
 # Choices: All IoT systems, Consumer IoT, Industrial IoT, All IoT devices and systems, etc.
@@ -51,7 +52,7 @@ application: Mandatory
 # Choices: ❌ No, ✅ Label, ✅ Certification, etc.
 # DO NOT ANSWER "✅ Yes".
 # It is possible to give more details.
-certification: ❌ No (mandated product assurance remains possible in the future)
+certification: ❌ No
 
 # Does the regulation mandate baseline security requirements?
 # The regulation calls these requirements "baseline", "minimum requirements", or can explicit them directly
