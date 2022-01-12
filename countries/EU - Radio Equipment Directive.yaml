@@ -36,7 +36,7 @@ is-inforce: ✅ Yes
 # Scope:
 # Choices: All IoT systems, Consumer IoT, Industrial IoT, All IoT devices and systems, etc.
 # The scope is usually described in regulation!
-scope: Internet-connected radio equipment
+scope: Childcare radio equipment, toys, wearable devices, Internet-connected radio equipment (with exceptionsy)
 
 # Target Actors: IoT manufacturers, IoT suppliers, IoT users, etc.
 # The target actors are usually described in the regulation
