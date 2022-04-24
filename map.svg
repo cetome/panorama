@@ -16,13 +16,13 @@
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <sodipodi:namedview
-     inkscape:current-layer="g10586"
+     inkscape:current-layer="svg10828"
      inkscape:window-maximized="1"
      inkscape:window-y="-9"
      inkscape:window-x="-9"
-     inkscape:cy="613.11115"
-     inkscape:cx="1486.0922"
-     inkscape:zoom="0.25491788"
+     inkscape:cy="681.45945"
+     inkscape:cx="1982.8031"
+     inkscape:zoom="0.61575492"
      showgrid="false"
      id="namedview10830"
      inkscape:window-height="1001"
@@ -8948,23 +8948,6 @@
        x="1846.507"
        sodipodi:role="line" /></text>
   <text
-     id="text10684"
-     xml:space="preserve"
-     style="font-size:32px;line-height:1.35;white-space:pre;inline-size:375.182"
-     word-spacing="0"
-     letter-spacing="0"
-     font-size="24px"
-     font-family="'Gill Sans MT'"
-     fill="#162d50"
-     y="567.04999"
-     x="2020.601"
-     transform="translate(0,-0.0039673)"><tspan
-       x="2020.601"
-       y="567.04999"><tspan
-         style="font-weight:bold">Finland</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#0044aa"> </tspan><tspan
-         style="fill:#000000">Tietoturvamerkki</tspan></tspan></text>
-  <text
      id="text10690"
      xml:space="preserve"
      style="line-height:1.35"
@@ -9316,4 +9299,21 @@
    id="tspan10941">European Union</tspan> <tspan
    style="fill:#000000"
    id="tspan10943">Cyber Resilience Act</tspan></tspan></text>
+  <text
+     x="1999.7111"
+     y="567.04602"
+     font-family="'Open Sans'"
+     font-size="32px"
+     letter-spacing="0"
+     word-spacing="0"
+     style="line-height:1.35"
+     xml:space="preserve"
+     id="text5488"><tspan
+       x="1999.7111"
+       y="567.04602"
+       fill="#0044aa"
+       font-weight="bold"
+       id="tspan5484">Finland <tspan
+   id="tspan5490"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#000000">Tietoturvamerkki</tspan></tspan></text>
 </svg>
