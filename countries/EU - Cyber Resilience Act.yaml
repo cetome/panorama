@@ -2,7 +2,7 @@
 #             Metadata             #
 ####################################
 created-by: cetome
-date: 24/04/2021
+date: 24/09/2022
 
 #################################
 #           Geography           #
@@ -14,11 +14,11 @@ country-flag: https://upload.wikimedia.org/wikipedia/commons/b/b7/Flag_of_Europe
 ###################################
 #  Information on the regulation  #
 ###################################
-regulation: Regulation on horizontal cybersecurity requirements for digital products and ancillary services
+regulation: Proposal for a regulation on cybersecurity requirements for products with digital elements
 shortname: Cyber Resilience Act
 author: European Commission
-URL: https://digital-strategy.ec.europa.eu/en/consultations/cyber-resilience-act
-date-of-issue: On-going work
+URL: https://digital-strategy.ec.europa.eu/en/library/cyber-resilience-act
+date-of-issue: 15 September 2022
 
 ##################################
 #            Analysis            #
@@ -40,18 +40,18 @@ scope: All IoT systems
 
 # Target Actors: IoT manufacturers, IoT suppliers, IoT users, etc.
 # The target actors are usually described in the regulation
-target: IoT manufacturers
+target: IoT economic operators (manufacturers, distributors, importers)
 
 # Application
 # Choices: Mandatory or Voluntary?
 # Most regulations specify whether they are mandatory or voluntary.
-application: Mandatory (likely)
+application: Mandatory
 
 # Is there a label or a certification?
 # Choices: ❌ No, ✅ Label, ✅ Certification, etc.
 # DO NOT ANSWER "✅ Yes".
 # It is possible to give more details.
-certification: ❔ TBC
+certification: ❌ No
 
 # Does the regulation mandate baseline security requirements?
 # The regulation calls these requirements "baseline", "minimum requirements", or can explicit them directly
@@ -59,7 +59,7 @@ baseline: ✅ Yes
 
 # Are there additional requirements to the baseline security?
 # These requirements can be technical or non-technical. For example: reference to additional sectorial requirements.
-additional-requirements: ❔ TBC (likely)
+additional-requirements: ✅ Yes
 
 # Does the regulation contains assurance levels?
 # The regulation should described this element. The term "assessment criteria" can be used.
@@ -72,4 +72,4 @@ is-ETSI-required: ❔ TBC (very likely to be ✅ Yes)
 can-ETSI-comply: ✅ Yes
 
 # Are other standards or guidance referenced? (cf. regulation)
-is-other-reference: ❌ No
+is-other-reference: ✅ Yes

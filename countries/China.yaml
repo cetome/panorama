@@ -2,7 +2,7 @@
 #             Metadata             #
 ####################################
 created-by: cetome
-date: 18/03/2021
+date: 20/09/2022
 
 #################################
 #           Geography           #
@@ -14,11 +14,11 @@ country-flag: https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_Pe
 ###################################
 #  Information on the regulation  #
 ###################################
-regulation: Draft guidelines for the construction of basic security standard systems for the Internet of Things ('IoT')
-shortname: IoT cybersecurity guidelines
+regulation: Guidelines for the Construction of IoT Basic Security Standard Systems (2021 Edition)
+shortname: IoT BSSS
 author: Ministry of Industry and Information Technology (MIIT)
-URL: https://www.miit.gov.cn/gzcy/yjzj/art/2021/art_de99ecee64884ecda932604c32631b76.html
-date-of-issue: On-going work
+URL: https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/202110/6615b008ceb14cb789e20ca9badab163.pdf
+date-of-issue: 23 September 2021
 
 ##################################
 #            Analysis            #
@@ -31,7 +31,7 @@ date-of-issue: On-going work
 # 🛑 N/A when "Not Applicable"
 
 # Is the regulation in force?
-is-inforce: ❌ No
+is-inforce: ✅ Yes
 
 # Scope:
 # Choices: All IoT systems, Consumer IoT, Industrial IoT, All IoT devices and systems, etc.
@@ -63,7 +63,7 @@ additional-requirements: ✅ Yes
 
 # Does the regulation contains assurance levels?
 # The regulation should described this element. The term "assessment criteria" can be used.
-assurance-levels: ❔ TBC
+assurance-levels: ❌ No
 
 # Is compliance with ETSI EN 303 645 a requirement?
 is-ETSI-required: ❌ No
