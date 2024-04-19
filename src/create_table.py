@@ -128,8 +128,7 @@ def create_HTML_table(panorama):
     with open(os.path.join(os.path.dirname(__file__), "../table.html"), "w", encoding="utf-8") as fw:
         fw.write(html_prefix)
         fw.write(panorama.transpose().to_html(justify="unset").replace("&lt;", "<").replace("&gt;", ">")) # remove the URL encoding for images
-        fw.write("""
-    </body>
+        fw.write("""</body>
 </html>""")
     
     return 2
