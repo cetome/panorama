@@ -2,7 +2,7 @@
 #             Metadata             #
 ####################################
 created-by: cetome
-date: 18/04/2024
+date: 12/10/2024
 
 #################################
 #           Geography           #
@@ -17,8 +17,8 @@ country-flag: https://upload.wikimedia.org/wikipedia/commons/b/b7/Flag_of_Europe
 regulation: Cyber Resilience Act
 shortname: CRA
 author: European Commission
-URL: https://www.europarl.europa.eu/doceo/document/TA-9-2024-0130_EN.pdf
-date-of-issue: 12 March 2024
+URL: https://data.consilium.europa.eu/doc/document/PE-100-2023-INIT/en/pdf
+date-of-issue: 10 October 2024
 
 ##################################
 #            Analysis            #
@@ -31,16 +31,16 @@ date-of-issue: 12 March 2024
 # 🛑 N/A when "Not Applicable"
 
 # Is the regulation in force?
-is-inforce: ❌ No (planned Q3 2024)
+is-inforce: ✅ Yes
 
 # Scope:
 # Choices: All IoT systems, Consumer IoT, Industrial IoT, All IoT devices and systems, etc.
 # The scope is usually described in regulation!
-scope: All systems with a digital element
+scope: Products with a digital element
 
 # Target Actors: IoT manufacturers, IoT suppliers, IoT users, etc.
 # The target actors are usually described in the regulation
-target: Economic operators (manufacturers, importers, distributors, commercial open source)
+target: Manufacturers, importers, distributors, commercial open source
 
 # Application
 # Choices: Mandatory or Voluntary?

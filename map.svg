@@ -4,7 +4,7 @@
    viewBox="0 0 4e3 2050"
    id="svg5446"
    sodipodi:docname="map.svg"
-   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
    inkscape:export-filename="map.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
@@ -27,13 +27,13 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="0.30725"
-     inkscape:cx="2209.9268"
-     inkscape:cy="387.30675"
-     inkscape:window-width="2560"
-     inkscape:window-height="1369"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:zoom="1.229"
+     inkscape:cx="2139.1375"
+     inkscape:cy="1740.4394"
+     inkscape:window-width="1440"
+     inkscape:window-height="830"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg5446" />
   <metadata
@@ -6694,7 +6694,7 @@
          x="88.809998"
          y="734.08698"
          fill="#0044aa"
-         font-family="'Gill Sans MT'"
+         font-family="'Open Sans'"
          font-size="25.803px"
          letter-spacing="0"
          stroke-width=".524"
@@ -6723,7 +6723,7 @@
          x="54.810001"
          y="954.08698"
          fill="#162d50"
-         font-family="'Gill Sans MT'"
+         font-family="'Open Sans'"
          font-size="25.803px"
          letter-spacing="0"
          stroke-width=".524"
@@ -6748,7 +6748,7 @@
     <text
        x="54.81"
        y="954.087"
-       font-family="'Gill Sans MT'"
+       font-family="'Open Sans'"
        font-size="25.803"
        letter-spacing="0"
        stroke-width=".524"
@@ -8767,19 +8767,19 @@
      id="text5178"><tspan
        x="247.80901"
        y="985.95898"
-       id="tspan8618"><tspan
+       id="tspan2"><tspan
          style="font-weight:bold;fill:#162d50"
-         id="tspan8616">United States of America
+         id="tspan1">United States of America
 </tspan></tspan><tspan
        x="247.80901"
        y="1029.159"
-       id="tspan8620">Cybersecurity Improvement Act
+       id="tspan3">Cybersecurity Improvement Act
 </tspan><tspan
        x="247.80901"
        y="1072.359"
-       id="tspan8624"><tspan
+       id="tspan5"><tspan
          style="font-size:26.667px"
-         id="tspan8622">State laws: California, Oregon</tspan></tspan></text>
+         id="tspan4">State laws: California, Oregon</tspan></tspan></text>
   <text
      x="246.74699"
      y="1464.088"
@@ -8792,25 +8792,25 @@
      id="text5192"><tspan
        x="246.74699"
        y="1464.088"
-       id="tspan8628"><tspan
+       id="tspan7"><tspan
          style="font-weight:bold;fill:#162d50"
-         id="tspan8626">Brazil
+         id="tspan6">Brazil
 </tspan></tspan><tspan
        x="246.74699"
        y="1507.288"
-       id="tspan8632"><tspan
+       id="tspan9"><tspan
          style="font-size:26.667px"
-         id="tspan8630">Requisitos de segurança cibernéticapara </tspan></tspan><tspan
+         id="tspan8">Requisitos de segurança cibernéticapara </tspan></tspan><tspan
        x="246.74699"
        y="1550.4879"
-       id="tspan8636"><tspan
+       id="tspan11"><tspan
          style="font-size:26.667px"
-         id="tspan8634">equipamentos para telecomunicações</tspan></tspan></text>
+         id="tspan10">equipamentos para telecomunicações</tspan></tspan></text>
   <text
      x="2080.6221"
      y="1755.1748"
      fill="#0044aa"
-     font-family="'Gill Sans MT'"
+     font-family="'Open Sans'"
      font-size="24px"
      letter-spacing="0"
      word-spacing="0"
@@ -8844,7 +8844,7 @@
   <text
      x="2608.7329"
      y="1755.0186"
-     font-family="'Gill Sans MT'"
+     font-family="'Open Sans'"
      letter-spacing="0"
      word-spacing="0"
      style="line-height:1.35;fill:#162d50;fill-opacity:1"
@@ -8869,7 +8869,7 @@
      x="3075.988"
      y="1543.162"
      fill="#162d50"
-     font-family="'Gill Sans MT'"
+     font-family="'Open Sans'"
      font-size="24px"
      letter-spacing="0"
      word-spacing="0"
@@ -8886,12 +8886,12 @@
    font-weight="bold"
    id="tspan5214">Australia</tspan> <tspan
    font-size="26.667px"
-   id="tspan5216">Code of Practice</tspan></tspan></text>
+   id="tspan5216">Cyber Security Bill</tspan></tspan></text>
   <text
      x="3073.8479"
      y="1304.6851"
      fill="#0044aa"
-     font-family="'Gill Sans MT'"
+     font-family="'Open Sans'"
      font-size="24px"
      letter-spacing="0"
      word-spacing="0"
@@ -8913,7 +8913,7 @@
      x="3077.9409"
      y="953.203"
      fill="#162d50"
-     font-family="'Gill Sans MT'"
+     font-family="'Open Sans'"
      font-size="24px"
      letter-spacing="0"
      word-spacing="0"
@@ -8944,23 +8944,23 @@
      id="text5252"><tspan
        x="3076.144"
        y="791.604"
-       id="tspan8642"><tspan
+       id="tspan14"><tspan
    style="font-weight:bold"
-   id="tspan8638">China</tspan> <tspan
+   id="tspan12">China</tspan> <tspan
    style="font-size:26.667px;fill:#000000"
-   id="tspan8640">Guidelines for the construction of 
+   id="tspan13">Guidelines for the construction of 
 </tspan></tspan><tspan
        x="3076.144"
        y="834.80403"
-       id="tspan8646"><tspan
+       id="tspan16"><tspan
          style="font-size:26.667px;fill:#000000"
-         id="tspan8644">            basic security standard systems 
+         id="tspan15">            basic security standard systems 
 </tspan></tspan><tspan
        x="3076.144"
        y="878.00404"
-       id="tspan8650"><tspan
+       id="tspan18"><tspan
          style="font-size:26.667px;fill:#000000"
-         id="tspan8648">            for the Internet of Things ('IoT')</tspan></tspan></text>
+         id="tspan17">            for the Internet of Things ('IoT')</tspan></tspan></text>
   <text
      x="1846.507"
      y="410.27301"
@@ -8975,17 +8975,17 @@
      transform="translate(0,56)"><tspan
        x="1846.507"
        y="410.27301"
-       id="tspan8656"><tspan
+       id="tspan21"><tspan
    style="font-weight:bold"
-   id="tspan8652">European Union</tspan> <tspan
+   id="tspan19">European Union</tspan> <tspan
    style="font-size:26.6667px;fill:#000000"
-   id="tspan8654">Radio Equipment Directive: Delegated Act for cyber security</tspan></tspan></text>
+   id="tspan20">Radio Equipment Directive: Delegated Act for cyber security</tspan></tspan></text>
   <text
      transform="translate(0,-0.0039673)"
      x="2020.601"
      y="567.04999"
      fill="#0044aa"
-     font-family="'Gill Sans MT'"
+     font-family="'Open Sans'"
      font-size="24px"
      letter-spacing="0"
      word-spacing="0"
@@ -8994,15 +8994,15 @@
      id="text5284"><tspan
        x="2020.601"
        y="567.04999"
-       id="tspan8660"><tspan
+       id="tspan23"><tspan
    style="font-weight:bold;font-size:32px;font-family:'Open Sans'"
-   id="tspan8658">Finland</tspan> 
+   id="tspan22">Finland</tspan> 
 </tspan><tspan
        x="2020.601"
        y="605.11791"
-       id="tspan8664"><tspan
+       id="tspan25"><tspan
          style="font-size:26.667px;font-family:'Open Sans';fill:#000000"
-         id="tspan8662">Tietoturvamerkki</tspan></tspan></text>
+         id="tspan24">Tietoturvamerkki</tspan></tspan></text>
   <text
      x="1498.969"
      y="567.04602"
@@ -9069,15 +9069,15 @@
      id="text5310"><tspan
        x="3029.4189"
        y="567.22198"
-       id="tspan8668"><tspan
+       id="tspan27"><tspan
    style="font-weight:bold"
-   id="tspan8666">United Arab Emirates </tspan>
+   id="tspan26">United Arab Emirates </tspan>
 </tspan><tspan
        x="3029.4189"
        y="607.22197"
-       id="tspan8672"><tspan
+       id="tspan29"><tspan
          style="font-size:26.667px;fill:#000000"
-         id="tspan8670">IoT Regulation Policy</tspan></tspan></text>
+         id="tspan28">IoT Regulation Policy</tspan></tspan></text>
   <path
      d="m2622.6 1180.5 432.8-46.679"
      fill="none"
@@ -9129,7 +9129,7 @@
      x="1471.0314"
      y="1753.9717"
      fill="#162d50"
-     font-family="'Gill Sans MT'"
+     font-family="'Open Sans'"
      letter-spacing="0"
      word-spacing="0"
      style="line-height:1.35"
@@ -9192,7 +9192,7 @@
      x="3077.9409"
      y="1033.203"
      fill="#162d50"
-     font-family="'Gill Sans MT'"
+     font-family="'Open Sans'"
      font-size="24px"
      letter-spacing="0"
      word-spacing="0"
@@ -9382,9 +9382,9 @@
      transform="translate(0,94)"><tspan
        x="1846.507"
        y="410.27301"
-       id="tspan8678"><tspan
+       id="tspan32"><tspan
    style="font-weight:bold"
-   id="tspan8674">European Union</tspan> <tspan
+   id="tspan30">European Union</tspan> <tspan
    style="font-size:26.6667px;fill:#000000"
-   id="tspan8676">Cyber Resilience Act</tspan></tspan></text>
+   id="tspan31">Cyber Resilience Act</tspan></tspan></text>
 </svg>

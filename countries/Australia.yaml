@@ -2,7 +2,7 @@
 #             Metadata             #
 ####################################
 created-by: cetome
-date: 18/03/2021
+date: 12/10/2021
 
 #################################
 #           Geography           #
@@ -14,11 +14,11 @@ country-flag: https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Austra
 ###################################
 #  Information on the regulation  #
 ###################################
-regulation: Code of Practice - Securing the Internet of Things for Consumers
-shortname: Code of Practice
+regulation: Cyber Security Bill 2024, Part 2 Security standards for smart devices 
+shortname: Cyber Security Bill
 author: Australian Government, Department of Home Affairs
-URL: https://www.homeaffairs.gov.au/reports-and-pubs/files/code-of-practice.pdf
-date-of-issue: October 2020
+URL: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7250_first-reps/toc_pdf/24116b01.pdf;fileType=application%2Fpdf
+date-of-issue: October 2024
 
 ##################################
 #            Analysis            #
@@ -36,22 +36,22 @@ is-inforce: ✅ Yes
 # Scope:
 # Choices: All IoT systems, Consumer IoT, Industrial IoT, All IoT devices and systems, etc.
 # The scope is usually described in regulation!
-scope: Consumer IoT
+scope: Internet-connectable products
 
 # Target Actors: IoT manufacturers, IoT suppliers, IoT users, etc.
 # The target actors are usually described in the regulation
-target: IoT manufacturers
+target: IoT manufacturers and suppliers
 
 # Application
 # Choices: Mandatory or Voluntary?
 # Most regulations specify whether they are mandatory or voluntary.
-application: Voluntary
+application: Mandatory
 
 # Is there a label or a certification?
 # Choices: ❌ No, ✅ Label, ✅ Certification, etc.
 # DO NOT ANSWER "✅ Yes".
 # It is possible to give more details.
-certification: ✅ Label
+certification: ❌ No
 
 # Does the regulation mandate baseline security requirements?
 # The regulation calls these requirements "baseline", "minimum requirements", or can explicit them directly
@@ -59,7 +59,7 @@ baseline: ✅ Yes
 
 # Are there additional requirements to the baseline security?
 # These requirements can be technical or non-technical. For example: reference to additional sectorial requirements.
-additional-requirements: ❌ No
+additional-requirements: ✅ Yes
 
 # Does the regulation contains assurance levels?
 # The regulation should described this element. The term "assessment criteria" can be used.
