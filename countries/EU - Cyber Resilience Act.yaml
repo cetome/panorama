@@ -14,11 +14,11 @@ country-flag: https://upload.wikimedia.org/wikipedia/commons/b/b7/Flag_of_Europe
 ###################################
 #  Information on the regulation  #
 ###################################
-regulation: Cyber Resilience Act
+regulation: Cyber Resilience Act (EU 2024/2847)
 shortname: CRA
 author: European Commission
-URL: https://data.consilium.europa.eu/doc/document/PE-100-2023-INIT/en/pdf
-date-of-issue: 10 October 2024
+URL: http://data.europa.eu/eli/reg/2024/2847/oj
+date-of-issue: 23 October 2024
 
 ##################################
 #            Analysis            #
