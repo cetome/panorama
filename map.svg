@@ -4,7 +4,7 @@
    viewBox="0 0 4e3 2050"
    id="svg5446"
    sodipodi:docname="map.svg"
-   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
    inkscape:export-filename="map.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
@@ -27,13 +27,13 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="1.229"
-     inkscape:cx="2139.1375"
-     inkscape:cy="1740.4394"
-     inkscape:window-width="1440"
-     inkscape:window-height="830"
-     inkscape:window-x="-6"
-     inkscape:window-y="-6"
+     inkscape:zoom="0.43451712"
+     inkscape:cx="1143.7984"
+     inkscape:cy="393.54031"
+     inkscape:window-width="2560"
+     inkscape:window-height="1369"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg5446" />
   <metadata
@@ -49,17 +49,20 @@
   </metadata>
   <style
      type="text/css"
-     id="style4">.circlexx,.subxx{opacity:0;fill:silver;stroke:#000;stroke-width:.5}.subxx{stroke-width:.3}.landxx{fill:silver;stroke:#fff;stroke-width:.5;fill-rule:evenodd}.coastxx{stroke-width:.2}.antxx{opacity:0;fill:silver}.noxx{stroke:#000;stroke-width:.5}.limitxx,.noxx,.unxx{opacity:0;fill:silver}.limitxx{fill-rule:evenodd;stroke:#fff;stroke-width:.2}.unxx{stroke:#000;stroke-width:.3}.au,.eu,.fi,.gb,.in,.sg,.vn{fill:#04a}.sg{opacity:1}.ae,.br,.ca,.cn,.eg,.jp,.kr,.sa,.th,.us{fill:#162d50}</style>
+     id="style4">.circlexx,.subxx{opacity:0;fill:silver;stroke:#000;stroke-width:.5}.subxx{stroke-width:.3}.landxx{fill:silver;stroke:#fff;stroke-width:.5;fill-rule:evenodd}.coastxx{stroke-width:.2}.antxx{opacity:0;fill:silver}.noxx{stroke:#000;stroke-width:.5}.limitxx,.noxx,.unxx{opacity:0;fill:silver}.limitxx{fill-rule:evenodd;stroke:#fff;stroke-width:.2}.unxx{stroke:#000;stroke-width:.3}.au,.eu,.fi,.gb,.in,.sg,.vn{fill:#04a}.sg{opacity:1}.ae,.br,.ca,.cn,.eg,.hu,.jp,.kr,.sa,.th,.us{fill:#162d50}</style>
   <rect
-     width="4e3"
+     width="4000"
      height="2050"
      ry="10.171"
-     fill="#fff"
+     fill="#ffffff"
      stroke-linecap="round"
      stroke-linejoin="bevel"
-     stroke-opacity=".60392"
+     stroke-opacity="0.60392"
      stroke-width="10"
-     id="rect6" />
+     id="rect6"
+     rx="10.171"
+     x="0"
+     y="0" />
   <path
      class="landxx sd"
      d="M1982.9 1216.5c.31-.313.36-.917.63-1.189.43-.427 1.06-.807 1.49-1.233.67-.666 0-2.09.68-2.761.48-.481 1.98.233 2.55-.34.39-.394 2.69-1.095 3.06-.723.5.504.43 2.178.68 2.422.21.212.97.08 1.15.255.32.329.35.957.55 1.36.13.267.45.581.59.722.51.511.23 1.889.68 2.337.3.294 1.24.737 1.57.85.88.292 4.4-.866 4.89-1.36.11-.108.67.07.77.09 1.39.28 3.49.303 4.54.128.53.743.82 1.839 1.36 2.379.59.588 4.57.224 5.36-.17.26-.133.12-.757.25-1.02.36-.71 1.45-1.637 2.25-2.039.93-.463 3.09-.07 3.61-.595.36-.36-.34-2.334.17-2.847.69-.687 1.95-1.242 2.64-1.657 1.96.463 2.78 1.937 3.99 3.144.68.677 1.64.998 2.21 1.573.17.164.38-.249.43-.298.14-.144 1.48-.04 1.78-.04.37 0 1.36.08 1.62-.17 1.31-1.317 2.37-3.31 3.78-4.717.65-.655.73-2.262 1.36-2.889 1.16-1.165 2.85-2.232 3.35-3.739-1.51-1.184.41-4.61-.59-5.608-.13-.132-2.1-1.85-2.04-1.912.67-.666 4.33.392 4.8-.553.31-.616-.1-1.441 0-1.912.39-.205 3.99-.03 3.99 0 0 .757-.67 3.435-1.06 4.207-.38.771.83 5.433 1.06 6.373.12.45-.29 2.128-.12 2.294.35.354 1.24.512 1.7.85 1.8 1.354 2.81 3.958 4.12 5.269.42.423 0 2.772-.77 2.167.15 4.269-.26 1.443 2.29 2.292.1-.639.2-1.272.4-1.899.47-1.45 1.17-2.494 1.11-4.057-.1-1.757-.23-2.949.91-4.387.86-1.091 2.34-.179 2.31 1.037.61-.669.89-1.21 1.36-2.189 1.19-2.473-.56-2.439 0-3.103 1.37-1.621.34-4.436 1.83-5.419 1.44-.946 2.02-4.113 2.92-5.552.93-1.468 2.13-.793 3.56-.992.95-.133.77-2.984.79-3.653 0-1.888 1.15-3.273 1.53-5.069.55-2.597.14-5.46 0-7.278-.1-1.951-.7-4.334 0-5.659.99-1.857 1.29-4.379 2.14-6.667.32-.89.79-1.866.99-2.795.22-1.012-.32-1.804-.13-2.801.18-1.015 0-3.099.97-3.65.67-.4 2.56.356 2.82-.56.5-1.78.24-1.97 2.2-2.713 1.09-.411 3.56-1.295 4.15-2.263.46-.737 1.6-2.721 1.87-3.014-.16-1.348-2.45-1.198-2.51-2.43-.94.84-3.56-3.539-4.97-3.778-2.43-.413-3.15-5.119-3.25-7.158-.15-2.904-1.03-5.522-.65-8.377.17-1.264-.26-2.706-.76-3.852-.69-1.586.71-2.303 1.06-.739-.1-2.055-2.46-3.349-3.02-5.256-.69-2.304.3-3.19-1.83-4.673-1.6-1.119-2.62-3.237-4.29-4.111-1.87-.977-3.38-1.741-3.89-3.96-.68.682-2.46 3.372-3.54 2.808-1.41-.74-1.86 1.128-2.16 1.987-.59 1.655-1.08 2.598-2.88 2.907-1.79.307-2.25.682-2.62 2.477-.82 3.925-4.65.93-6.51-.08-1.61-.878-4.44-.208-6.2-.135-2.3.1-4.63.151-6.9-.241.75-.694.36-3.145-.75-1.366-1.1 1.758-2.53 1.438-4.38 1.438h-14.22c-9.66 0-19.45-.09-29.11-.09.2 5.758.4 11.61.5 17.371h-7.48l.72 37.224c-1.24-.384-2.53-.857-3.77-.212-1.01.534-1.99-.06-3.03.453-2.42 1.198.13 3.012-1.38 4.94-1.22 1.544-1.43 3.224-3.19 4.157-1.1.586 0 3.331.71 3.981-2.52 2.015-4.15 2.699-2.34 6.103.68 1.296-.17 1.842-1.23 2.588-1.13.797-1.33 1.823-1.83 3.046.98 2.646 2.83.157 4.48 1.112.98.568-.5 1.501 0 2.266.55.934.84 2.174.54 3.243.26-.131.52-.251.79-.36.78 1.26-.69 2.655 0 3.931.63 1.27 2.26 1.44 2.81 2.363.81 1.356-.89 2.601-.29 3.919.62 1.365 1.71 2.392 2.75 3.433 1.86 1.863 3.49 4.621 3.5 7.288 0 .496.12.982.12 1.439 0 .01 4.46 0 4.46 0 .51.189.67-.236 1.06-.606.69-.06.84.899 1.24-.419.52-.321.82-.382 1.18-.877z"
@@ -6250,9 +6253,9 @@
        id="path3888" />
   </g>
   <path
-     d="m2018.4 617.5c-20.311 43.176-31.496 76.025-51.975 119.56"
+     d="m 1991.7544,616.23947 c -12.2069,44.94449 -17.2959,78.39039 -29.6034,123.70845"
      fill="none"
-     stroke="#000"
+     stroke="#000000"
      stroke-linecap="square"
      stroke-width="2"
      id="path3892" />
@@ -8604,9 +8607,9 @@
        id="circle5068" />
   </g>
   <path
-     d="m1943.2 527.72-102.6 325.61"
-     stroke="#000"
-     stroke-width="1.9913"
+     d="M 1943.2,508.99216 1840.6,853.34349"
+     stroke="#000000"
+     stroke-width="2.04781"
      id="path5072" />
   <path
      d="m2791.9 982.52 269.35-39.175"
@@ -8767,19 +8770,19 @@
      id="text5178"><tspan
        x="247.80901"
        y="985.95898"
-       id="tspan2"><tspan
+       id="tspan8793"><tspan
          style="font-weight:bold;fill:#162d50"
-         id="tspan1">United States of America
+         id="tspan8791">United States of America
 </tspan></tspan><tspan
        x="247.80901"
        y="1029.159"
-       id="tspan3">Cybersecurity Improvement Act
+       id="tspan8795">Cybersecurity Improvement Act
 </tspan><tspan
        x="247.80901"
        y="1072.359"
-       id="tspan5"><tspan
+       id="tspan8799"><tspan
          style="font-size:26.667px"
-         id="tspan4">State laws: California, Oregon</tspan></tspan></text>
+         id="tspan8797">State laws: California, Oregon</tspan></tspan></text>
   <text
      x="246.74699"
      y="1464.088"
@@ -8792,20 +8795,20 @@
      id="text5192"><tspan
        x="246.74699"
        y="1464.088"
-       id="tspan7"><tspan
+       id="tspan8803"><tspan
          style="font-weight:bold;fill:#162d50"
-         id="tspan6">Brazil
+         id="tspan8801">Brazil
 </tspan></tspan><tspan
        x="246.74699"
        y="1507.288"
-       id="tspan9"><tspan
+       id="tspan8807"><tspan
          style="font-size:26.667px"
-         id="tspan8">Requisitos de segurança cibernéticapara </tspan></tspan><tspan
+         id="tspan8805">Requisitos de segurança cibernéticapara </tspan></tspan><tspan
        x="246.74699"
        y="1550.4879"
-       id="tspan11"><tspan
+       id="tspan8811"><tspan
          style="font-size:26.667px"
-         id="tspan10">equipamentos para telecomunicações</tspan></tspan></text>
+         id="tspan8809">equipamentos para telecomunicações</tspan></tspan></text>
   <text
      x="2080.6221"
      y="1755.1748"
@@ -8882,11 +8885,10 @@
        font-family="'Open Sans'"
        font-size="32px"
        id="tspan5218"><tspan
-   fill="#0044aa"
-   font-weight="bold"
-   id="tspan5214">Australia</tspan> <tspan
-   font-size="26.667px"
-   id="tspan5216">Cyber Security Bill</tspan></tspan></text>
+   style="font-weight:bold;fill:#0044aa;fill-opacity:1"
+   id="tspan5944">Australia</tspan> <tspan
+   style="font-size:26.6667px"
+   id="tspan5942">Security Standards for Smart Devices</tspan></tspan></text>
   <text
      x="3073.8479"
      y="1304.6851"
@@ -8944,23 +8946,23 @@
      id="text5252"><tspan
        x="3076.144"
        y="791.604"
-       id="tspan14"><tspan
+       id="tspan8817"><tspan
    style="font-weight:bold"
-   id="tspan12">China</tspan> <tspan
+   id="tspan8813">China</tspan> <tspan
    style="font-size:26.667px;fill:#000000"
-   id="tspan13">Guidelines for the construction of 
+   id="tspan8815">Guidelines for the construction of 
 </tspan></tspan><tspan
        x="3076.144"
        y="834.80403"
-       id="tspan16"><tspan
+       id="tspan8821"><tspan
          style="font-size:26.667px;fill:#000000"
-         id="tspan15">            basic security standard systems 
+         id="tspan8819">            basic security standard systems 
 </tspan></tspan><tspan
        x="3076.144"
        y="878.00404"
-       id="tspan18"><tspan
+       id="tspan8825"><tspan
          style="font-size:26.667px;fill:#000000"
-         id="tspan17">            for the Internet of Things ('IoT')</tspan></tspan></text>
+         id="tspan8823">            for the Internet of Things ('IoT')</tspan></tspan></text>
   <text
      x="1846.507"
      y="410.27301"
@@ -8972,16 +8974,16 @@
      style="line-height:1.35;white-space:pre;inline-size:1234.98;display:inline;fill:#162d50;fill-opacity:1"
      xml:space="preserve"
      id="text5274"
-     transform="translate(0,56)"><tspan
+     transform="translate(0,50)"><tspan
        x="1846.507"
        y="410.27301"
-       id="tspan21"><tspan
+       id="tspan8831"><tspan
    style="font-weight:bold"
-   id="tspan19">European Union</tspan> <tspan
+   id="tspan8827">European Union</tspan> <tspan
    style="font-size:26.6667px;fill:#000000"
-   id="tspan20">Radio Equipment Directive: Delegated Act for cyber security</tspan></tspan></text>
+   id="tspan8829">Radio Equipment Directive: Delegated Act for cyber security</tspan></tspan></text>
   <text
-     transform="translate(0,-0.0039673)"
+     transform="translate(-64.279903,-0.16021729)"
      x="2020.601"
      y="567.04999"
      fill="#0044aa"
@@ -8994,18 +8996,18 @@
      id="text5284"><tspan
        x="2020.601"
        y="567.04999"
-       id="tspan23"><tspan
-   style="font-weight:bold;font-size:32px;font-family:'Open Sans'"
-   id="tspan22">Finland</tspan> 
+       id="tspan8835"><tspan
+   style="font-weight:bold;font-size:32px"
+   id="tspan8833">Finland</tspan> 
 </tspan><tspan
        x="2020.601"
        y="605.11791"
-       id="tspan25"><tspan
-         style="font-size:26.667px;font-family:'Open Sans';fill:#000000"
-         id="tspan24">Tietoturvamerkki</tspan></tspan></text>
+       id="tspan8839"><tspan
+         style="font-size:26.667px;fill:#000000"
+         id="tspan8837">Tietoturvamerkki</tspan></tspan></text>
   <text
      x="1498.969"
-     y="567.04602"
+     y="566.88977"
      font-family="'Open Sans'"
      font-size="32px"
      letter-spacing="0"
@@ -9014,16 +9016,16 @@
      xml:space="preserve"
      id="text5290"><tspan
        x="1498.969"
-       y="567.04602"
+       y="566.88977"
        fill="#0044aa"
        font-weight="bold"
        id="tspan5286">United Kingdom</tspan><tspan
        x="1498.969"
-       y="610.24597"
+       y="610.08972"
        font-size="26.667px"
        id="tspan5288">PSTI Act</tspan></text>
   <text
-     x="2511.4089"
+     x="2654.6213"
      y="567.04602"
      font-family="'Open Sans'"
      font-size="32px"
@@ -9032,31 +9034,31 @@
      style="line-height:1.25"
      xml:space="preserve"
      id="text5296"><tspan
-       x="2511.4089"
+       x="2654.6213"
        y="567.04602"
        fill="#162d50"
        font-weight="bold"
        id="tspan5292">Kingdom of Saudi Arabia</tspan><tspan
-       x="2511.4089"
+       x="2654.6213"
        y="607.04602"
        font-size="26.667px"
        id="tspan5294">IoT Regulatory Framework</tspan></text>
   <path
-     d="m2496.2 600.13-327.65 477.67"
+     d="M 2656.4929,621.2854 2168.55,1077.8"
      fill="none"
-     stroke="#000"
+     stroke="#000000"
      stroke-linecap="square"
-     stroke-width="2"
+     stroke-width="2.4185"
      id="path5298" />
   <path
-     d="m3018.2 602.76-807.67 481.04"
+     d="M 3130.4864,613.33769 2210.53,1083.8"
      fill="none"
-     stroke="#000"
+     stroke="#000000"
      stroke-linecap="square"
-     stroke-width="2"
+     stroke-width="2.29344"
      id="path5300" />
   <text
-     transform="translate(0,-0.17596)"
+     transform="translate(113.17225,-0.17596)"
      x="3029.4189"
      y="567.22198"
      fill="#162d50"
@@ -9069,15 +9071,15 @@
      id="text5310"><tspan
        x="3029.4189"
        y="567.22198"
-       id="tspan27"><tspan
+       id="tspan8843"><tspan
    style="font-weight:bold"
-   id="tspan26">United Arab Emirates </tspan>
+   id="tspan8841">United Arab Emirates </tspan>
 </tspan><tspan
        x="3029.4189"
        y="607.22197"
-       id="tspan29"><tspan
+       id="tspan8847"><tspan
          style="font-size:26.667px;fill:#000000"
-         id="tspan28">IoT Regulation Policy</tspan></tspan></text>
+         id="tspan8845">IoT Regulation Policy</tspan></tspan></text>
   <path
      d="m2622.6 1180.5 432.8-46.679"
      fill="none"
@@ -9379,12 +9381,42 @@
      style="line-height:1.35;white-space:pre;inline-size:1234.98;display:inline;fill:#0044aa;fill-opacity:1"
      xml:space="preserve"
      id="text6848"
-     transform="translate(0,94)"><tspan
+     transform="translate(0,88)"><tspan
        x="1846.507"
        y="410.27301"
-       id="tspan32"><tspan
+       id="tspan8853"><tspan
    style="font-weight:bold"
-   id="tspan30">European Union</tspan> <tspan
+   id="tspan8849">European Union</tspan> <tspan
    style="font-size:26.6667px;fill:#000000"
-   id="tspan31">Cyber Resilience Act</tspan></tspan></text>
+   id="tspan8851">Cyber Resilience Act</tspan></tspan></text>
+  <path
+     d="M 2211.2397,618.31361 C 2106.3489,717.61223 2048.587,793.16022 1942.8285,893.28449"
+     fill="none"
+     stroke="#000000"
+     stroke-linecap="square"
+     stroke-width="2.00001"
+     id="path5938" />
+  <text
+     transform="translate(190.59072,-0.16021729)"
+     x="2020.601"
+     y="567.04999"
+     fill="#0044aa"
+     font-family="'Open Sans'"
+     font-size="24px"
+     letter-spacing="0"
+     word-spacing="0"
+     style="line-height:1.35;white-space:pre;inline-size:453.294;display:inline"
+     xml:space="preserve"
+     id="text6063"><tspan
+       x="2020.601"
+       y="567.04999"
+       id="tspan8857"><tspan
+   style="font-weight:bold;font-size:32px"
+   id="tspan8855">Hungary</tspan> 
+</tspan><tspan
+       x="2020.601"
+       y="605.11791"
+       id="tspan8861"><tspan
+         style="font-size:26.667px;fill:#000000"
+         id="tspan8859">IoT cyber security certification</tspan></tspan></text>
 </svg>

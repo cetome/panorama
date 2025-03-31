@@ -2,7 +2,7 @@
 #             Metadata             #
 ####################################
 created-by: cetome
-date: 12/10/2021
+date: 13/03/2025
 
 #################################
 #           Geography           #
@@ -14,11 +14,11 @@ country-flag: https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Austra
 ###################################
 #  Information on the regulation  #
 ###################################
-regulation: Cyber Security Bill 2024, Part 2 Security standards for smart devices 
-shortname: Cyber Security Bill
+regulation: Cyber Security (Security Standards for Smart Devices) Rules 2025
+shortname: Security Standards for Smart Devices
 author: Australian Government, Department of Home Affairs
-URL: https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r7250_first-reps/toc_pdf/24116b01.pdf;fileType=application%2Fpdf
-date-of-issue: October 2024
+URL: https://www.legislation.gov.au/F2025L00276/asmade/text
+date-of-issue: March 2025
 
 ##################################
 #            Analysis            #
