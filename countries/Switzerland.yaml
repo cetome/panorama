@@ -1,0 +1,75 @@
+####################################
+#             Metadata             #
+####################################
+created-by: cetome
+date: 26/09/2026
+
+#################################
+#           Geography           #
+#################################
+id: Switzerland
+country-code: 🇨🇭
+country-flag: https://upload.wikimedia.org/wikipedia/commons/0/08/Flag_of_Switzerland_(Pantone).svg
+
+###################################
+#  Information on the regulation  #
+###################################
+regulation: Loi fédérale sur la cybersécurité
+shortname: LFCS
+author: DDPS
+URL: https://www.vbs.admin.ch/fr/newnsb/zX9oNK8tuI-Z
+date-of-issue: 24 September 2026
+
+##################################
+#            Analysis            #
+##################################
+# Please use the following markers where relevant:
+# ✅ Yes
+# ❌ No
+# 🆗 Partially
+# ❔ TBC when the information remains "To Be Confirmed"
+# 🛑 N/A when "Not Applicable"
+
+# Is the regulation in force?
+is-inforce: ❌ No
+
+# Scope:
+# Choices: All IoT systems, Consumer IoT, Industrial IoT, All IoT devices and systems, etc.
+# The scope is usually described in regulation!
+scope: Hardware and software
+
+# Target Actors: IoT manufacturers, IoT suppliers, IoT users, etc.
+# The target actors are usually described in the regulation
+target: Manufacturers, importers, distributors, commercial open source
+
+# Application
+# Choices: Mandatory or Voluntary?
+# Most regulations specify whether they are mandatory or voluntary.
+application: Mandatory
+
+# Is there a label or a certification?
+# Choices: ❌ No, ✅ Label, ✅ Certification, etc.
+# DO NOT ANSWER "✅ Yes".
+# It is possible to give more details.
+certification: ❔ TBC
+
+# Does the regulation mandate baseline security requirements?
+# The regulation calls these requirements "baseline", "minimum requirements", or can explicit them directly
+baseline: ✅ Yes
+
+# Are there additional requirements to the baseline security?
+# These requirements can be technical or non-technical. For example: reference to additional sectorial requirements.
+additional-requirements: ❔ TBC
+
+# Does the regulation contains assurance levels?
+# The regulation should described this element. The term "assessment criteria" can be used.
+assurance-levels: ❔ TBC
+
+# Is compliance with ETSI EN 303 645 a requirement?
+is-ETSI-required: ❔ TBC
+
+# Can ETSI EN 303 645 be used to comply with the regulation?
+can-ETSI-comply: ✅ Yes
+
+# Are other standards or guidance referenced? (cf. regulation)
+is-other-reference: ❔ TBC

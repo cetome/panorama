@@ -4,8 +4,8 @@
    viewBox="0 0 4e3 2050"
    id="svg5446"
    sodipodi:docname="map.svg"
-   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
-   inkscape:export-filename="map.png"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   inkscape:export-filename="C:\Users\ceced\OneDrive - cetome\Desktop\map.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -27,13 +27,13 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="0.43451712"
-     inkscape:cx="1143.7984"
-     inkscape:cy="393.54031"
-     inkscape:window-width="2560"
-     inkscape:window-height="1369"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:zoom="0.21725856"
+     inkscape:cx="3620.1105"
+     inkscape:cy="1719.1498"
+     inkscape:window-width="1920"
+     inkscape:window-height="1111"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg5446" />
   <metadata
@@ -49,7 +49,7 @@
   </metadata>
   <style
      type="text/css"
-     id="style4">.circlexx,.subxx{opacity:0;fill:silver;stroke:#000;stroke-width:.5}.subxx{stroke-width:.3}.landxx{fill:silver;stroke:#fff;stroke-width:.5;fill-rule:evenodd}.coastxx{stroke-width:.2}.antxx{opacity:0;fill:silver}.noxx{stroke:#000;stroke-width:.5}.limitxx,.noxx,.unxx{opacity:0;fill:silver}.limitxx{fill-rule:evenodd;stroke:#fff;stroke-width:.2}.unxx{stroke:#000;stroke-width:.3}.au,.eu,.fi,.gb,.in,.sg,.vn{fill:#04a}.sg{opacity:1}.ae,.br,.ca,.cn,.eg,.hu,.jp,.kr,.sa,.th,.us{fill:#162d50}</style>
+     id="style4">.circlexx,.subxx{opacity:0;fill:silver;stroke:#000;stroke-width:.5}.subxx{stroke-width:.3}.landxx{fill:silver;stroke:#fff;stroke-width:.5;fill-rule:evenodd}.coastxx{stroke-width:.2}.antxx{opacity:0;fill:silver}.noxx{stroke:#000;stroke-width:.5}.limitxx,.noxx,.unxx{opacity:0;fill:silver}.limitxx{fill-rule:evenodd;stroke:#fff;stroke-width:.2}.unxx{stroke:#000;stroke-width:.3}.au,.ch,.eu,.fi,.gb,.in,.sg,.vn{fill:#04a}.sg{opacity:1}.ae,.br,.ca,.cn,.eg,.hu,.jp,.kr,.sa,.th,.us{fill:#162d50}</style>
   <rect
      width="4000"
      height="2050"
@@ -8770,19 +8770,19 @@
      id="text5178"><tspan
        x="247.80901"
        y="985.95898"
-       id="tspan8793"><tspan
+       id="tspan5"><tspan
          style="font-weight:bold;fill:#162d50"
-         id="tspan8791">United States of America
+         id="tspan2">United States of America
 </tspan></tspan><tspan
        x="247.80901"
        y="1029.159"
-       id="tspan8795">Cybersecurity Improvement Act
+       id="tspan6">Cybersecurity Improvement Act
 </tspan><tspan
        x="247.80901"
        y="1072.359"
-       id="tspan8799"><tspan
+       id="tspan47"><tspan
          style="font-size:26.667px"
-         id="tspan8797">State laws: California, Oregon</tspan></tspan></text>
+         id="tspan46">State laws: California, Oregon</tspan></tspan></text>
   <text
      x="246.74699"
      y="1464.088"
@@ -8795,20 +8795,20 @@
      id="text5192"><tspan
        x="246.74699"
        y="1464.088"
-       id="tspan8803"><tspan
+       id="tspan49"><tspan
          style="font-weight:bold;fill:#162d50"
-         id="tspan8801">Brazil
+         id="tspan48">Brazil
 </tspan></tspan><tspan
        x="246.74699"
        y="1507.288"
-       id="tspan8807"><tspan
+       id="tspan51"><tspan
          style="font-size:26.667px"
-         id="tspan8805">Requisitos de segurança cibernéticapara </tspan></tspan><tspan
+         id="tspan50">Requisitos de segurança cibernéticapara </tspan></tspan><tspan
        x="246.74699"
        y="1550.4879"
-       id="tspan8811"><tspan
+       id="tspan53"><tspan
          style="font-size:26.667px"
-         id="tspan8809">equipamentos para telecomunicações</tspan></tspan></text>
+         id="tspan52">equipamentos para telecomunicações</tspan></tspan></text>
   <text
      x="2080.6221"
      y="1755.1748"
@@ -8946,23 +8946,23 @@
      id="text5252"><tspan
        x="3076.144"
        y="791.604"
-       id="tspan8817"><tspan
+       id="tspan56"><tspan
    style="font-weight:bold"
-   id="tspan8813">China</tspan> <tspan
+   id="tspan54">China</tspan> <tspan
    style="font-size:26.667px;fill:#000000"
-   id="tspan8815">Guidelines for the construction of 
+   id="tspan55">Guidelines for the construction of 
 </tspan></tspan><tspan
        x="3076.144"
        y="834.80403"
-       id="tspan8821"><tspan
+       id="tspan58"><tspan
          style="font-size:26.667px;fill:#000000"
-         id="tspan8819">            basic security standard systems 
+         id="tspan57">            basic security standard systems 
 </tspan></tspan><tspan
        x="3076.144"
        y="878.00404"
-       id="tspan8825"><tspan
+       id="tspan60"><tspan
          style="font-size:26.667px;fill:#000000"
-         id="tspan8823">            for the Internet of Things ('IoT')</tspan></tspan></text>
+         id="tspan59">            for the Internet of Things ('IoT')</tspan></tspan></text>
   <text
      x="1846.507"
      y="410.27301"
@@ -8977,11 +8977,11 @@
      transform="translate(0,50)"><tspan
        x="1846.507"
        y="410.27301"
-       id="tspan8831"><tspan
+       id="tspan63"><tspan
    style="font-weight:bold"
-   id="tspan8827">European Union</tspan> <tspan
+   id="tspan61">European Union</tspan> <tspan
    style="font-size:26.6667px;fill:#000000"
-   id="tspan8829">Radio Equipment Directive: Delegated Act for cyber security</tspan></tspan></text>
+   id="tspan62">Radio Equipment Directive: Delegated Act for cyber security</tspan></tspan></text>
   <text
      transform="translate(-64.279903,-0.16021729)"
      x="2020.601"
@@ -8996,15 +8996,15 @@
      id="text5284"><tspan
        x="2020.601"
        y="567.04999"
-       id="tspan8835"><tspan
+       id="tspan65"><tspan
    style="font-weight:bold;font-size:32px"
-   id="tspan8833">Finland</tspan> 
+   id="tspan64">Finland</tspan> 
 </tspan><tspan
        x="2020.601"
        y="605.11791"
-       id="tspan8839"><tspan
+       id="tspan67"><tspan
          style="font-size:26.667px;fill:#000000"
-         id="tspan8837">Tietoturvamerkki</tspan></tspan></text>
+         id="tspan66">Tietoturvamerkki</tspan></tspan></text>
   <text
      x="1498.969"
      y="566.88977"
@@ -9071,15 +9071,15 @@
      id="text5310"><tspan
        x="3029.4189"
        y="567.22198"
-       id="tspan8843"><tspan
+       id="tspan69"><tspan
    style="font-weight:bold"
-   id="tspan8841">United Arab Emirates </tspan>
+   id="tspan68">United Arab Emirates </tspan>
 </tspan><tspan
        x="3029.4189"
        y="607.22197"
-       id="tspan8847"><tspan
+       id="tspan71"><tspan
          style="font-size:26.667px;fill:#000000"
-         id="tspan8845">IoT Regulation Policy</tspan></tspan></text>
+         id="tspan70">IoT Regulation Policy</tspan></tspan></text>
   <path
      d="m2622.6 1180.5 432.8-46.679"
      fill="none"
@@ -9384,11 +9384,11 @@
      transform="translate(0,88)"><tspan
        x="1846.507"
        y="410.27301"
-       id="tspan8853"><tspan
+       id="tspan74"><tspan
    style="font-weight:bold"
-   id="tspan8849">European Union</tspan> <tspan
+   id="tspan72">European Union</tspan> <tspan
    style="font-size:26.6667px;fill:#000000"
-   id="tspan8851">Cyber Resilience Act</tspan></tspan></text>
+   id="tspan73">Cyber Resilience Act</tspan></tspan></text>
   <path
      d="M 2211.2397,618.31361 C 2106.3489,717.61223 2048.587,793.16022 1942.8285,893.28449"
      fill="none"
@@ -9410,13 +9410,49 @@
      id="text6063"><tspan
        x="2020.601"
        y="567.04999"
-       id="tspan8857"><tspan
+       id="tspan76"><tspan
    style="font-weight:bold;font-size:32px"
-   id="tspan8855">Hungary</tspan> 
+   id="tspan75">Hungary</tspan> 
 </tspan><tspan
        x="2020.601"
        y="605.11791"
-       id="tspan8861"><tspan
+       id="tspan78"><tspan
          style="font-size:26.667px;fill:#000000"
-         id="tspan8859">IoT cyber security certification</tspan></tspan></text>
+         id="tspan77">IoT cyber security certification</tspan></tspan></text>
+  <path
+     d="m 1855.2064,897.60157 c -46.483,2.88742 -79.7899,8.81899 -126.659,11.73123"
+     fill="none"
+     stroke="#000000"
+     stroke-linecap="square"
+     stroke-width="2"
+     id="path1" />
+  <text
+     transform="translate(-520.84784,320.86663)"
+     x="2020.601"
+     y="567.04999"
+     fill="#0044aa"
+     font-family="'Open Sans'"
+     font-size="24px"
+     letter-spacing="0"
+     word-spacing="0"
+     style="line-height:1.35;white-space:pre;inline-size:375.182;display:inline"
+     xml:space="preserve"
+     id="text4"><tspan
+       x="2020.601"
+       y="567.04999"
+       id="tspan80"><tspan
+   style="font-weight:bold;font-size:32px"
+   id="tspan79">Switzerland</tspan> 
+</tspan><tspan
+       x="2020.601"
+       y="605.11762"
+       id="tspan82"><tspan
+         style="font-size:26.6667px;fill:#1a1a1a"
+         id="tspan81">Loi Fédérale sur 
+</tspan></tspan><tspan
+       x="2020.601"
+       y="641.11768"
+       id="tspan84"><tspan
+         style="font-size:26.6667px;fill:#1a1a1a"
+         id="tspan83">la Cybersécurité</tspan></tspan></text>
 </svg>
