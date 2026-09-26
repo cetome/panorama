@@ -16,7 +16,20 @@
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
-     id="defs5450" />
+     id="defs5450">
+    <rect
+       x="1934.3312"
+       y="1752.5201"
+       width="5.7535132"
+       height="55.233727"
+       id="rect17" />
+    <rect
+       x="1933.1804"
+       y="1758.2736"
+       width="6.9042159"
+       height="35.671782"
+       id="rect16" />
+  </defs>
   <sodipodi:namedview
      id="namedview5448"
      pagecolor="#ffffff"
@@ -27,9 +40,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="0.21725856"
-     inkscape:cx="3620.1105"
-     inkscape:cy="1719.1498"
+     inkscape:zoom="0.86903424"
+     inkscape:cx="1795.0961"
+     inkscape:cy="952.20644"
      inkscape:window-width="1920"
      inkscape:window-height="1111"
      inkscape:window-x="-9"
@@ -61,8 +74,8 @@
      stroke-width="10"
      id="rect6"
      rx="10.171"
-     x="0"
-     y="0" />
+     x="41.425297"
+     y="-32.219673" />
   <path
      class="landxx sd"
      d="M1982.9 1216.5c.31-.313.36-.917.63-1.189.43-.427 1.06-.807 1.49-1.233.67-.666 0-2.09.68-2.761.48-.481 1.98.233 2.55-.34.39-.394 2.69-1.095 3.06-.723.5.504.43 2.178.68 2.422.21.212.97.08 1.15.255.32.329.35.957.55 1.36.13.267.45.581.59.722.51.511.23 1.889.68 2.337.3.294 1.24.737 1.57.85.88.292 4.4-.866 4.89-1.36.11-.108.67.07.77.09 1.39.28 3.49.303 4.54.128.53.743.82 1.839 1.36 2.379.59.588 4.57.224 5.36-.17.26-.133.12-.757.25-1.02.36-.71 1.45-1.637 2.25-2.039.93-.463 3.09-.07 3.61-.595.36-.36-.34-2.334.17-2.847.69-.687 1.95-1.242 2.64-1.657 1.96.463 2.78 1.937 3.99 3.144.68.677 1.64.998 2.21 1.573.17.164.38-.249.43-.298.14-.144 1.48-.04 1.78-.04.37 0 1.36.08 1.62-.17 1.31-1.317 2.37-3.31 3.78-4.717.65-.655.73-2.262 1.36-2.889 1.16-1.165 2.85-2.232 3.35-3.739-1.51-1.184.41-4.61-.59-5.608-.13-.132-2.1-1.85-2.04-1.912.67-.666 4.33.392 4.8-.553.31-.616-.1-1.441 0-1.912.39-.205 3.99-.03 3.99 0 0 .757-.67 3.435-1.06 4.207-.38.771.83 5.433 1.06 6.373.12.45-.29 2.128-.12 2.294.35.354 1.24.512 1.7.85 1.8 1.354 2.81 3.958 4.12 5.269.42.423 0 2.772-.77 2.167.15 4.269-.26 1.443 2.29 2.292.1-.639.2-1.272.4-1.899.47-1.45 1.17-2.494 1.11-4.057-.1-1.757-.23-2.949.91-4.387.86-1.091 2.34-.179 2.31 1.037.61-.669.89-1.21 1.36-2.189 1.19-2.473-.56-2.439 0-3.103 1.37-1.621.34-4.436 1.83-5.419 1.44-.946 2.02-4.113 2.92-5.552.93-1.468 2.13-.793 3.56-.992.95-.133.77-2.984.79-3.653 0-1.888 1.15-3.273 1.53-5.069.55-2.597.14-5.46 0-7.278-.1-1.951-.7-4.334 0-5.659.99-1.857 1.29-4.379 2.14-6.667.32-.89.79-1.866.99-2.795.22-1.012-.32-1.804-.13-2.801.18-1.015 0-3.099.97-3.65.67-.4 2.56.356 2.82-.56.5-1.78.24-1.97 2.2-2.713 1.09-.411 3.56-1.295 4.15-2.263.46-.737 1.6-2.721 1.87-3.014-.16-1.348-2.45-1.198-2.51-2.43-.94.84-3.56-3.539-4.97-3.778-2.43-.413-3.15-5.119-3.25-7.158-.15-2.904-1.03-5.522-.65-8.377.17-1.264-.26-2.706-.76-3.852-.69-1.586.71-2.303 1.06-.739-.1-2.055-2.46-3.349-3.02-5.256-.69-2.304.3-3.19-1.83-4.673-1.6-1.119-2.62-3.237-4.29-4.111-1.87-.977-3.38-1.741-3.89-3.96-.68.682-2.46 3.372-3.54 2.808-1.41-.74-1.86 1.128-2.16 1.987-.59 1.655-1.08 2.598-2.88 2.907-1.79.307-2.25.682-2.62 2.477-.82 3.925-4.65.93-6.51-.08-1.61-.878-4.44-.208-6.2-.135-2.3.1-4.63.151-6.9-.241.75-.694.36-3.145-.75-1.366-1.1 1.758-2.53 1.438-4.38 1.438h-14.22c-9.66 0-19.45-.09-29.11-.09.2 5.758.4 11.61.5 17.371h-7.48l.72 37.224c-1.24-.384-2.53-.857-3.77-.212-1.01.534-1.99-.06-3.03.453-2.42 1.198.13 3.012-1.38 4.94-1.22 1.544-1.43 3.224-3.19 4.157-1.1.586 0 3.331.71 3.981-2.52 2.015-4.15 2.699-2.34 6.103.68 1.296-.17 1.842-1.23 2.588-1.13.797-1.33 1.823-1.83 3.046.98 2.646 2.83.157 4.48 1.112.98.568-.5 1.501 0 2.266.55.934.84 2.174.54 3.243.26-.131.52-.251.79-.36.78 1.26-.69 2.655 0 3.931.63 1.27 2.26 1.44 2.81 2.363.81 1.356-.89 2.601-.29 3.919.62 1.365 1.71 2.392 2.75 3.433 1.86 1.863 3.49 4.621 3.5 7.288 0 .496.12.982.12 1.439 0 .01 4.46 0 4.46 0 .51.189.67-.236 1.06-.606.69-.06.84.899 1.24-.419.52-.321.82-.382 1.18-.877z"
@@ -2447,18 +2460,22 @@
   <g
      class="landxx coastxx om"
      transform="translate(493.65 601.97)"
-     id="g1478">
+     id="g1478"
+     style="fill:#162d50;fill-opacity:1">
     <path
        class="landxx om"
        d="M1718.7 473.02c.21-.579.47-1.13.79-1.655.68.76 1.33-.274 1.01-.937.58.316 1.76 2.303.29 1.944.94.655.25 4.669-.79 4.484-1.41-.25.5-3.744-1.3-3.836"
-       id="path1472" />
+       id="path1472"
+       style="fill:#162d50;fill-opacity:1" />
     <path
        class="landxx om"
        d="M1692.8 533.32c10.52-2.42 17.11-4.956 21.88-7.546 1.95-3.719-.15 2.139.79-2.003.76-3.383 1.29-6.76 2.05-9.984.53-2.231 1.78-5.035.49-7.159-.93-1.528-2.81-2.834-3.4-4.522-.74-2.122 3.27-9.425 1.3-10.581.88-1.054 2.62-.142 3.39-1.151.84-1.107-.51-.738-.79-1.296-.74-1.486-1.32-4.749-.33-6.256.46-.704 1.4.378 1.25.935-.46 1.737 1.3-.146 1.58-.41.85-.818.85-.68 1.38.474.89 1.918 2.05 3.731 3.47 5.303 2.23 2.485 5.36 3.378 8.55 4.018 1.49.299 2.76.886 4.27 1.056 2.03.228 3.14 2.7 4.31 4.08.93 1.113 1.57 2.457 2.51 3.522.97 1.109 1.48 1.155 2.77 1.668 3.01 1.204-.4 5.48-1 7.247-1.13 3.338-4.71 5.08-5.68 8.656-.22.844-.54 3.285-1.87 2.883-1.06-.317-.86-2.337-2.21-1.496-1.62.978-1.53 4.493-1.94 5.938-.55 1.889.1 3.353.57 5.183.4 1.496.66 2.627-1.16 2.682-2.92.09-6.13.948-6.85 4.096-.28 1.237-.51 2.597-1.28 3.642-.97 1.301-2.9 1.23-4.43 1.345-1.85.138-2.59.439-3.68 1.898-1.05 1.412-.37 1.681-.45 3.294-.1 1.283-1.38 2.214-2.42 2.717-.5.241-1 .565-1.51.164-.87-.693-1.6-.504-2.69-.504-3.16 0-5.92 3.065-9.11 2.975-2.06-.06-1.14-5.109-3.35-5.351.94-.98-1.35-4.426-1.82-5.289-1.63-3.012-3.56-7.004-4.63-10.26"
-       id="path1474" />
+       id="path1474"
+       style="fill:#162d50;fill-opacity:1" />
     <path
        d="M1742.1 524.07c.67-.595.9-1.389 1.22-2.19.19-.241.4-.446.65-.618.27-.321-.42-1.322-.5-1.657-.37 1.562-2 2.723-1.37 4.465"
-       id="path1476" />
+       id="path1476"
+       style="fill:#162d50;fill-opacity:1" />
   </g>
   <g
      class="landxx coastxx pa"
@@ -8154,9 +8171,9 @@
        id="circle4874" />
   </g>
   <path
-     d="m2381 1201.9-172.51 515.89"
+     d="m 2368.4669,1191.0618 -96.9202,535.265"
      fill="none"
-     stroke="#000"
+     stroke="#000000"
      stroke-linecap="square"
      stroke-width="2"
      id="path4878" />
@@ -8752,9 +8769,9 @@
        id="path5158" />
   </g>
   <path
-     d="m2556.8 1223 88.307 494.7"
+     d="m 2558.292,1240.6258 140.5568,482.4624"
      fill="none"
-     stroke="#000"
+     stroke="#000000"
      stroke-linecap="square"
      stroke-width="2"
      id="path5162" />
@@ -8780,9 +8797,9 @@
 </tspan><tspan
        x="247.80901"
        y="1072.359"
-       id="tspan47"><tspan
+       id="tspan8"><tspan
          style="font-size:26.667px"
-         id="tspan46">State laws: California, Oregon</tspan></tspan></text>
+         id="tspan7">State laws: California, Oregon</tspan></tspan></text>
   <text
      x="246.74699"
      y="1464.088"
@@ -8795,22 +8812,22 @@
      id="text5192"><tspan
        x="246.74699"
        y="1464.088"
-       id="tspan49"><tspan
+       id="tspan10"><tspan
          style="font-weight:bold;fill:#162d50"
-         id="tspan48">Brazil
+         id="tspan9">Brazil
 </tspan></tspan><tspan
        x="246.74699"
        y="1507.288"
-       id="tspan51"><tspan
+       id="tspan18"><tspan
          style="font-size:26.667px"
-         id="tspan50">Requisitos de segurança cibernéticapara </tspan></tspan><tspan
+         id="tspan17">Requisitos de segurança cibernéticapara </tspan></tspan><tspan
        x="246.74699"
        y="1550.4879"
-       id="tspan53"><tspan
+       id="tspan22"><tspan
          style="font-size:26.667px"
-         id="tspan52">equipamentos para telecomunicações</tspan></tspan></text>
+         id="tspan19">equipamentos para telecomunicações</tspan></tspan></text>
   <text
-     x="2080.6221"
+     x="2216.6221"
      y="1755.1748"
      fill="#0044aa"
      font-family="'Open Sans'"
@@ -8820,32 +8837,32 @@
      style="line-height:1.35"
      xml:space="preserve"
      id="text5206"><tspan
-       x="2080.6221"
+       x="2216.6221"
        y="1755.1748"
        id="tspan5194" /><tspan
-       x="2080.6221"
+       x="2216.6221"
        y="1787.5748"
        id="tspan5196" /><tspan
-       x="2080.6221"
+       x="2216.6221"
        y="1755.1748"
        font-weight="bold"
        id="tspan5200"><tspan
-         x="2080.6221"
+         x="2216.6221"
          y="1755.1748"
          font-family="'Open Sans'"
          font-size="32px"
          font-weight="bold"
          id="tspan5198">India</tspan></tspan><tspan
-       x="2080.6221"
+       x="2216.6221"
        y="1793.2424"
        fill="#000000"
        font-size="26.667px"
        id="tspan5202">Code of Practice - Consumer IoT</tspan><tspan
-       x="2080.6221"
+       x="2216.6221"
        y="1826.6763"
        id="tspan5204" /></text>
   <text
-     x="2608.7329"
+     x="2688.7329"
      y="1755.0186"
      font-family="'Open Sans'"
      letter-spacing="0"
@@ -8853,7 +8870,7 @@
      style="line-height:1.35;fill:#162d50;fill-opacity:1"
      xml:space="preserve"
      id="text5212"><tspan
-       x="2608.7329"
+       x="2688.7329"
        y="1755.0186"
        fill="#0044aa"
        font-family="'Open Sans'"
@@ -8861,7 +8878,7 @@
        font-weight="bold"
        id="tspan5208"
        style="fill:#162d50;fill-opacity:1">Thailand</tspan><tspan
-       x="2608.7329"
+       x="2688.7329"
        y="1792.0978"
        fill="#1a1a1a"
        font-size="26.667px"
@@ -8946,23 +8963,23 @@
      id="text5252"><tspan
        x="3076.144"
        y="791.604"
-       id="tspan56"><tspan
+       id="tspan51"><tspan
    style="font-weight:bold"
-   id="tspan54">China</tspan> <tspan
+   id="tspan48">China</tspan> <tspan
    style="font-size:26.667px;fill:#000000"
-   id="tspan55">Guidelines for the construction of 
+   id="tspan50">Guidelines for the construction of 
 </tspan></tspan><tspan
        x="3076.144"
        y="834.80403"
-       id="tspan58"><tspan
+       id="tspan59"><tspan
          style="font-size:26.667px;fill:#000000"
-         id="tspan57">            basic security standard systems 
+         id="tspan58">            basic security standard systems 
 </tspan></tspan><tspan
        x="3076.144"
        y="878.00404"
-       id="tspan60"><tspan
+       id="tspan61"><tspan
          style="font-size:26.667px;fill:#000000"
-         id="tspan59">            for the Internet of Things ('IoT')</tspan></tspan></text>
+         id="tspan60">            for the Internet of Things ('IoT')</tspan></tspan></text>
   <text
      x="1846.507"
      y="410.27301"
@@ -8977,11 +8994,11 @@
      transform="translate(0,50)"><tspan
        x="1846.507"
        y="410.27301"
-       id="tspan63"><tspan
+       id="tspan64"><tspan
    style="font-weight:bold"
-   id="tspan61">European Union</tspan> <tspan
+   id="tspan62">European Union</tspan> <tspan
    style="font-size:26.6667px;fill:#000000"
-   id="tspan62">Radio Equipment Directive: Delegated Act for cyber security</tspan></tspan></text>
+   id="tspan63">Radio Equipment Directive: Delegated Act for cyber security</tspan></tspan></text>
   <text
      transform="translate(-64.279903,-0.16021729)"
      x="2020.601"
@@ -8996,15 +9013,15 @@
      id="text5284"><tspan
        x="2020.601"
        y="567.04999"
-       id="tspan65"><tspan
+       id="tspan66"><tspan
    style="font-weight:bold;font-size:32px"
-   id="tspan64">Finland</tspan> 
+   id="tspan65">Finland</tspan> 
 </tspan><tspan
        x="2020.601"
        y="605.11791"
-       id="tspan67"><tspan
+       id="tspan68"><tspan
          style="font-size:26.667px;fill:#000000"
-         id="tspan66">Tietoturvamerkki</tspan></tspan></text>
+         id="tspan67">Tietoturvamerkki</tspan></tspan></text>
   <text
      x="1498.969"
      y="566.88977"
@@ -9071,15 +9088,15 @@
      id="text5310"><tspan
        x="3029.4189"
        y="567.22198"
-       id="tspan69"><tspan
+       id="tspan70"><tspan
    style="font-weight:bold"
-   id="tspan68">United Arab Emirates </tspan>
+   id="tspan69">United Arab Emirates </tspan>
 </tspan><tspan
        x="3029.4189"
        y="607.22197"
-       id="tspan71"><tspan
+       id="tspan72"><tspan
          style="font-size:26.667px;fill:#000000"
-         id="tspan70">IoT Regulation Policy</tspan></tspan></text>
+         id="tspan71">IoT Regulation Policy</tspan></tspan></text>
   <path
      d="m2622.6 1180.5 432.8-46.679"
      fill="none"
@@ -9384,11 +9401,11 @@
      transform="translate(0,88)"><tspan
        x="1846.507"
        y="410.27301"
-       id="tspan74"><tspan
+       id="tspan75"><tspan
    style="font-weight:bold"
-   id="tspan72">European Union</tspan> <tspan
+   id="tspan73">European Union</tspan> <tspan
    style="font-size:26.6667px;fill:#000000"
-   id="tspan73">Cyber Resilience Act</tspan></tspan></text>
+   id="tspan74">Cyber Resilience Act</tspan></tspan></text>
   <path
      d="M 2211.2397,618.31361 C 2106.3489,717.61223 2048.587,793.16022 1942.8285,893.28449"
      fill="none"
@@ -9410,15 +9427,15 @@
      id="text6063"><tspan
        x="2020.601"
        y="567.04999"
-       id="tspan76"><tspan
+       id="tspan77"><tspan
    style="font-weight:bold;font-size:32px"
-   id="tspan75">Hungary</tspan> 
+   id="tspan76">Hungary</tspan> 
 </tspan><tspan
        x="2020.601"
        y="605.11791"
-       id="tspan78"><tspan
+       id="tspan79"><tspan
          style="font-size:26.667px;fill:#000000"
-         id="tspan77">IoT cyber security certification</tspan></tspan></text>
+         id="tspan78">IoT cyber security certification</tspan></tspan></text>
   <path
      d="m 1855.2064,897.60157 c -46.483,2.88742 -79.7899,8.81899 -126.659,11.73123"
      fill="none"
@@ -9440,19 +9457,63 @@
      id="text4"><tspan
        x="2020.601"
        y="567.04999"
-       id="tspan80"><tspan
+       id="tspan81"><tspan
    style="font-weight:bold;font-size:32px"
-   id="tspan79">Switzerland</tspan> 
+   id="tspan80">Switzerland</tspan> 
 </tspan><tspan
        x="2020.601"
        y="605.11762"
-       id="tspan82"><tspan
-         style="font-size:26.6667px;fill:#1a1a1a"
-         id="tspan81">Loi Fédérale sur 
+       id="tspan83"><tspan
+         style="font-style:italic;font-size:26.6667px;fill:#1a1a1a"
+         id="tspan82">Loi Fédérale sur 
 </tspan></tspan><tspan
        x="2020.601"
        y="641.11768"
-       id="tspan84"><tspan
-         style="font-size:26.6667px;fill:#1a1a1a"
-         id="tspan83">la Cybersécurité</tspan></tspan></text>
+       id="tspan85"><tspan
+         style="font-style:italic;font-size:26.6667px;fill:#1a1a1a"
+         id="tspan84">la Cybersécurité</tspan></tspan></text>
+  <path
+     d="m 2206.6568,1145.3261 -227.4349,574.9548"
+     fill="none"
+     stroke="#000000"
+     stroke-linecap="square"
+     stroke-width="2"
+     id="path2" />
+  <text
+     x="1940.4535"
+     y="1755.1748"
+     fill="#0044aa"
+     font-family="'Open Sans'"
+     font-size="24px"
+     letter-spacing="0"
+     word-spacing="0"
+     style="line-height:1.35;white-space:pre;inline-size:302.036;display:inline"
+     xml:space="preserve"
+     id="text10"
+     transform="translate(-14)"><tspan
+       x="1940.4535"
+       y="1755.1748"
+       id="tspan87"><tspan
+   style="font-weight:bold;font-size:32px"
+   id="tspan86">Oman</tspan>
+</tspan><tspan
+       x="1940.4535"
+       y="1790.6761"
+       id="tspan89"><tspan
+         style="fill:#1a1a1a"
+         id="tspan88">IoT Security 
+</tspan></tspan><tspan
+       x="1940.4535"
+       y="1823.0762"
+       id="tspan91"><tspan
+         style="fill:#1a1a1a"
+         id="tspan90">Regulatory Framework</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     id="text16"
+     style="font-weight:bold;font-size:26.6667px;line-height:1;font-family:'Leelawadee UI';-inkscape-font-specification:'Leelawadee UI Bold';text-align:center;letter-spacing:1px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect16);display:inline;fill:#1a1a1a;stroke:#ffffff;stroke-width:0;stroke-dasharray:none" />
+  <text
+     xml:space="preserve"
+     id="text17"
+     style="font-weight:bold;font-size:26.6667px;line-height:1;font-family:'Leelawadee UI';-inkscape-font-specification:'Leelawadee UI Bold';text-align:center;letter-spacing:1px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect17);display:inline;fill:#1a1a1a;stroke:#ffffff;stroke-width:0;stroke-dasharray:none" />
 </svg>
