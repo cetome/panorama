@@ -3,7 +3,7 @@
 ####################################
 created-by: cetome
 date: 18/03/2021
-last-updated: 19/04/2024
+last-updated: 28/09/2026
 
 #################################
 #           Geography           #
@@ -15,10 +15,10 @@ country-flag: https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_
 ###################################
 #  Information on the regulation  #
 ###################################
-regulation: The Product Security and Telecommunications Infrastructure Regulations
+regulation: The Product Security and Telecommunications Infrastructure
 shortname: PSTI
 author: Department for Digital, Media, Culture and Science
-URL: https://www.gov.uk/government/collections/the-product-security-and-telecommunications-infrastructure-psti-bill-factsheets
+URL: https://www.gov.uk/government/publications/the-uk-product-security-and-telecommunications-infrastructure-product-security-regime
 date-of-issue: 24/11/2021
 
 ##################################

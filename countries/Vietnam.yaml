@@ -3,6 +3,7 @@
 ####################################
 created-by: cetome
 date: 16/06/2021
+last_updated: 28/09/2026
 
 #################################
 #           Geography           #
@@ -16,8 +17,8 @@ country-flag: https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietna
 ###################################
 regulation: Decision No. 736/QĐ-BTTTT on 31 May 2021 ("Decision") Setting out the List of Baseline Requirements to Ensure Cyber Security for Consumer IoT Devices
 shortname: List of Baseline Cyber Security Requirements for Consumer IoT
-author: Authority of Information Security (AIS)
-URL: https://mic.gov.vn/Pages/VanBan/14664/736_Qd-BTTTT.html
+author: Ministry of Information and Communications
+URL: https://mic.mediacdn.vn/Upload_Moi/VanBan/736qd.PDF
 date-of-issue: 31/05/2021
 
 ##################################

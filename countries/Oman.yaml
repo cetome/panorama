@@ -3,6 +3,7 @@
 ####################################
 created-by: cetome
 date: 21/06/2022
+last-updated: 28/09/2026
 
 #################################
 #           Geography           #
@@ -14,11 +15,11 @@ country-flag: https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.s
 ###################################
 #  Information on the regulation  #
 ###################################
-regulation: Internet of Things Security Regulatory Framework
-shortname: IoT SRF
+regulation: Internet of Things (IoT) Guidelines
+shortname: IoT Guidelines
 author: Telecommunications Regulatory Authority
-URL: https://www.tra.gov.om/En/ViewPublicConsultations.jsp?code=41
-date-of-issue: 14 December 2021
+URL: https://www.mtcit.gov.om/web/content/43943
+date-of-issue: April 2022
 
 ##################################
 #            Analysis            #

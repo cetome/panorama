@@ -3,6 +3,7 @@
 ####################################
 created-by: cetome
 date: 13/03/2025
+last-updated: 28/09/2026
 
 #################################
 #           Geography           #
@@ -72,4 +73,4 @@ is-ETSI-required: ✅ Yes
 can-ETSI-comply: ✅ Yes
 
 # Are other standards or guidance referenced? (cf. regulation)
-is-other-reference: ❌ No
+is-other-reference: ✅ Yes

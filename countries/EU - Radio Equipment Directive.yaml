@@ -3,6 +3,7 @@
 ####################################
 created-by: cetome
 date: 21/08/2021
+last-updated: 28/09/2026
 
 #################################
 #           Geography           #
@@ -15,7 +16,7 @@ country-flag: https://upload.wikimedia.org/wikipedia/commons/b/b7/Flag_of_Europe
 #  Information on the regulation  #
 ###################################
 regulation: Articles 3(3)(e) and (f) of the Radio Equipment Directive 2014/53/EU
-shortname: RED
+shortname: RED cyber
 author: European Commission
 URL: https://ec.europa.eu/growth/system/files/2021-10/C_2021_7672_F1_COMMISSION_DELEGATED_REGULATION_EN_V10_P1_1428769.PDF
 date-of-issue: 29 October 2021
@@ -36,7 +37,7 @@ is-inforce: ✅ Yes
 # Scope:
 # Choices: All IoT systems, Consumer IoT, Industrial IoT, All IoT devices and systems, etc.
 # The scope is usually described in regulation!
-scope: Childcare radio equipment, toys, wearable devices, Internet-connected radio equipment (with exceptionsy)
+scope: Childcare radio equipment, toys, wearable devices, Internet-connected radio equipment (with exceptions)
 
 # Target Actors: IoT manufacturers, IoT suppliers, IoT users, etc.
 # The target actors are usually described in the regulation
@@ -51,7 +52,7 @@ application: Mandatory
 # Choices: ❌ No, ✅ Label, ✅ Certification, etc.
 # DO NOT ANSWER "✅ Yes".
 # It is possible to give more details.
-certification: ❌ No
+certification: ✅ Yes (CE)
 
 # Does the regulation mandate baseline security requirements?
 # The regulation calls these requirements "baseline", "minimum requirements", or can explicit them directly
@@ -72,4 +73,4 @@ is-ETSI-required: ❌ No
 can-ETSI-comply: ✅ Yes
 
 # Are other standards or guidance referenced? (cf. regulation)
-is-other-reference: ❌ No
+is-other-reference: ✅ Yes

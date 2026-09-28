@@ -3,6 +3,7 @@
 ####################################
 created-by: cetome
 date: 18/04/2024
+last-updated: 28/09/2026
 
 #################################
 #           Geography           #
@@ -17,8 +18,8 @@ country-flag: https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_
 regulation: Certification of IoT Cybersecurity
 shortname: CIC
 author: Korea Internet & Security Agency (KISA)
-URL: https://www.ksecurity.or.kr/user/bbs/kisis/92/539/bbsDataView/23074.do?page=1&column&search&searchSDate&searchEDate&bbsDataCategory
-date-of-issue: 2 December 2022
+URL: hhttps://www.ksecurity.or.kr/common/proc/kisis/bbs/92/fileDownLoad/3626.do
+date-of-issue: December 2025
 
 ##################################
 #            Analysis            #
@@ -51,7 +52,7 @@ application: Voluntary
 # Choices: ❌ No, ✅ Label, ✅ Certification, etc.
 # DO NOT ANSWER "✅ Yes".
 # It is possible to give more details.
-certification: ✅
+certification: ✅ Yes
 
 # Does the regulation mandate baseline security requirements?
 # The regulation calls these requirements "baseline", "minimum requirements", or can explicit them directly

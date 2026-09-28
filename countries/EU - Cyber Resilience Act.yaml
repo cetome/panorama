@@ -3,6 +3,7 @@
 ####################################
 created-by: cetome
 date: 12/10/2024
+last-updated: 28/09/2026
 
 #################################
 #           Geography           #
@@ -17,7 +18,7 @@ country-flag: https://upload.wikimedia.org/wikipedia/commons/b/b7/Flag_of_Europe
 regulation: Cyber Resilience Act (EU 2024/2847)
 shortname: CRA
 author: European Commission
-URL: http://data.europa.eu/eli/reg/2024/2847/oj
+URL: https://eur-lex.europa.eu/eli/reg/2024/2847/2024-11-20
 date-of-issue: 23 October 2024
 
 ##################################
@@ -51,7 +52,7 @@ application: Mandatory
 # Choices: ❌ No, ✅ Label, ✅ Certification, etc.
 # DO NOT ANSWER "✅ Yes".
 # It is possible to give more details.
-certification: ✅ Future hEN
+certification: ✅ Yes (CE)
 
 # Does the regulation mandate baseline security requirements?
 # The regulation calls these requirements "baseline", "minimum requirements", or can explicit them directly
